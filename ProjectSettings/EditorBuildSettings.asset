@@ -1,0 +1,78 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 1
+    path: Assets/Scenes/SampleScene.unity
+    guid: 3fc8acdd13e6c734bafef6554d6fdbcd
+  - enabled: 1
+    path: Assets/Scenes/HomeScreen.unity
+    guid: efbb21a168f309541b014d15312f6318
+  - enabled: 1
+    path: Assets/Scenes/Levels.unity
+    guid: 119c619aeac9d1d44a95bab0fde15361
+  - enabled: 1
+    path: Assets/Scenes/Level 1.unity
+    guid: 1b3da1c0436aa1d459cd9973c9cd6cde
+  - enabled: 1
+    path: Assets/Scenes/Level 2.unity
+    guid: a7e66807c9b34d34fadcf4b12ed303e6
+  - enabled: 1
+    path: Assets/Scenes/Level 3.unity
+    guid: 41022d56d99587a488bad233a2fd449d
+  - enabled: 1
+    path: Assets/Scenes/Level 4.unity
+    guid: 4675a1d808147b247ba9e133b0208976
+  - enabled: 1
+    path: Assets/Scenes/Level 5.unity
+    guid: 3d17e504e8d243f4281a4412a9c64d1f
+  - enabled: 1
+    path: Assets/Scenes/Works of Orata/Level 6.unity
+    guid: 3073c874d98da3249bb8c8259ded81e1
+  - enabled: 1
+    path: Assets/Scenes/Works of Orata/Level 7.unity
+    guid: c10dd71ed6ec43f40a2defeb226501b6
+  - enabled: 1
+    path: Assets/Scenes/Works of Orata/Level 8.unity
+    guid: 98064ba6beb40474c91066d0a9188e6b
+  - enabled: 1
+    path: Assets/Scenes/Works of Orata/Level 9.unity
+    guid: b97fb20a25919574e99ead6246486f5e
+  - enabled: 1
+    path: Assets/Scenes/Works of Orata/Level 10.unity
+    guid: 08c45fd448f08a74e8ceb03775b8dfc6
+  - enabled: 1
+    path: Assets/Scenes/Philosophy of Orata/Level 11.unity
+    guid: 4e64618c973202a44a93f1ab5f572b9b
+  - enabled: 1
+    path: Assets/Scenes/Philosophy of Orata/Level 12.unity
+    guid: 63f0f2a05a528d146aaed45926aeb378
+  - enabled: 1
+    path: Assets/Scenes/Philosophy of Orata/Level 13.unity
+    guid: 9f2eb7a625515764cb992bae51e8751b
+  - enabled: 1
+    path: Assets/Scenes/Assessment/Life Assessment.unity
+    guid: 4bd1b97bfe17dac449b2996f3c4d8242
+  - enabled: 1
+    path: Assets/Scenes/Assessment/Work Assessment.unity
+    guid: a66c331243cf7c141856b91cc22c4089
+  - enabled: 1
+    path: Assets/Scenes/Assessment/Philosophy Assessment.unity
+    guid: 35dfecb6ca39a7241af75771df0706f5
+  - enabled: 1
+    path: Assets/Scenes/Philosophy of Orata/Level 14.unity
+    guid: b33060355edf80a46832ae6011c3c722
+  - enabled: 1
+    path: Assets/Scenes/Philosophy of Orata/Level 15.unity
+    guid: 38abae8b64b9dcb4b96de11a1c74d08b
+  m_configObjects:
+    com.unity.adaptiveperformance.google.android.provider_settings: {fileID: 11400000, guid: 7154b73794fde2946aaf225ab151b2e0, type: 2}
+    com.unity.adaptiveperformance.loader_settings: {fileID: 11400000, guid: 652bc94d68abf9c4aabbfff48165d490, type: 2}
+    com.unity.adaptiveperformance.samsung.android.provider_settings: {fileID: 11400000, guid: f79a41f202d755a4aa7085823b4729b5, type: 2}
+    com.unity.adaptiveperformance.simulator.provider_settings: {fileID: 11400000, guid: d62ffc1106b9d0b4cacf7c4f66980696, type: 2}
