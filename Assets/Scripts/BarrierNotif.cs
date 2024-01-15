@@ -35,10 +35,17 @@ public TextMeshProUGUI barrierNotifTMP;
                 
             }else{
                 barrierNotifTMP.gameObject.SetActive(true);
+                StartCoroutine(turnOnNotif());
             }
             
             
         }
+    }
+
+    IEnumerator turnOnNotif()
+    {
+        yield return new WaitForSeconds(5f);
+        barrierNotifTMP.gameObject.SetActive(false);
     }
 
 }
