@@ -30,11 +30,11 @@ public class LevelMenu : MonoBehaviour
                 level15IsComplete = true;
                 unluckedLevel-=1;
             }
-            Debug.Log(unluckedLevel);
+            Debug.Log("Level unlocked: " + unluckedLevel);
             buttons[i].interactable = true;
         }
 
-        Debug.Log("Level 15 is complete: "+level15IsComplete);
+        //Debug.Log("Level 15 is complete: "+level15IsComplete);
 
        if(level15IsComplete==true)
        {

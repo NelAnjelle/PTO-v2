@@ -50,14 +50,18 @@ void Update()
 
         }
     }
+
+    //function for next level button
     public void NextLevel()
     {
         Time.timeScale = 1f;
         string nextLevelName = "Level "+ nextLevelInt;
+        //Might be the solution
+        if(nextLevelInt>PlayerPrefs.GetInt("UnlockedLevel")){
         PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
         Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));
         PlayerPrefs.Save();
-
+        }
         fadeTransition.LoadSceneWithFade(nextLevelName);
         //SceneManager.LoadScene(nextLevelName);
 
@@ -67,9 +71,15 @@ void Update()
     public void unlockNextLVL()
     {
         string nextLevelName = "Level "+ nextLevelInt;
-        PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
-        Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));
-        PlayerPrefs.Save();
+        //Might be the solution
+        if(nextLevelInt>PlayerPrefs.GetInt("UnlockedLevel")){
+            PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
+            Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));
+            PlayerPrefs.Save();
+
+        }
+            
+       
     }
 
 }

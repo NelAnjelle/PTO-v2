@@ -533,7 +533,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sister_Name: Carolina
-  sister_Reply: Hi! I'm Carolina. I'm Pedro's younger sister.
+  sister_Reply: Is Pedro's sister named Carolina?
   playerInSisterRange: 0
   QuestionPanel: {fileID: 1200054742}
   TMP_sisterName: {fileID: 459932631}
@@ -1469,7 +1469,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sister_Name: Victoria
-  sister_Reply: Hi! I'm Victoria. I'm Pedro's younger sister.
+  sister_Reply: Is Pedro's sister named Victoria?
   playerInSisterRange: 0
   QuestionPanel: {fileID: 1200054742}
   TMP_sisterName: {fileID: 459932631}
@@ -3881,7 +3881,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sister_Name: Victorina
-  sister_Reply: Hi! I'm Victorina. I'm Pedro's younger sister.
+  sister_Reply: Is Pedro's sister named Victorina?
   playerInSisterRange: 0
   QuestionPanel: {fileID: 1200054742}
   TMP_sisterName: {fileID: 459932631}
@@ -4186,7 +4186,7 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 932445025}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: -13.48, y: 1.2, z: 0}
+  m_LocalPosition: {x: -47, y: 0.6, z: 0}
   m_LocalScale: {x: 1, y: 1, z: 1}
   m_ConstrainProportionsScale: 0
   m_Children: []
@@ -32086,7 +32086,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sister_Name: Vicky
-  sister_Reply: Hi! I'm Vicky. I'm Pedro's younger sister.
+  sister_Reply: Is Pedro's sister named Vicky?
   playerInSisterRange: 0
   QuestionPanel: {fileID: 1200054742}
   TMP_sisterName: {fileID: 459932631}
@@ -33969,7 +33969,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   sister_Name: Vina
-  sister_Reply: Hi! I'm Vina. I'm Pedro's younger sister.
+  sister_Reply: Is Pedro's sister named Vina?
   playerInSisterRange: 0
   QuestionPanel: {fileID: 1200054742}
   TMP_sisterName: {fileID: 459932631}
