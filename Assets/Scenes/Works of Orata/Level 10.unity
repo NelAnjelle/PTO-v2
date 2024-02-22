@@ -2062,6 +2062,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: LevelCompleteTrigger
       objectReference: {fileID: 0}
+    - target: {fileID: 2281662629354014988, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
+      propertyPath: m_IsActive
+      value: 1
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
 --- !u!1001 &468396997
@@ -26782,7 +26786,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 1}
   m_AnchorMax: {x: 0.5, y: 1}
-  m_AnchoredPosition: {x: 0, y: -200}
+  m_AnchoredPosition: {x: 0, y: -150}
   m_SizeDelta: {x: 800, y: 150}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &624457061
@@ -26807,7 +26811,7 @@ MonoBehaviour:
       m_Calls: []
   m_text: 'CONGRATULATIONS!
 
-    YOU COMPLETED THE achievemets of pedro orata'
+    YOU COMPLETED THE achievements of pedro orata'
   m_isRightToLeft: 0
   m_fontAsset: {fileID: 11400000, guid: e764db6505175bf40aaf54e4407f990b, type: 2}
   m_sharedMaterial: {fileID: 5439121345005505621, guid: e764db6505175bf40aaf54e4407f990b, type: 2}
@@ -70289,7 +70293,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0}
   m_AnchorMax: {x: 0.5, y: 0}
-  m_AnchoredPosition: {x: 0, y: 118}
+  m_AnchoredPosition: {x: 0, y: 100}
   m_SizeDelta: {x: 770, y: 150}
   m_Pivot: {x: 0.5, y: 0}
 --- !u!114 &1326330780
