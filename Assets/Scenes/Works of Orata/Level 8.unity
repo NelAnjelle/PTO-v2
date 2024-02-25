@@ -79916,8 +79916,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Countdown, Assembly-CSharp
+      - m_Target: {fileID: 1512643739}
+        m_TargetAssemblyTypeName: CountdownFor11N6, Assembly-CSharp
         m_MethodName: RestartGame
         m_Mode: 1
         m_Arguments:
