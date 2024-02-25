@@ -51,6 +51,7 @@ public class Level2Handler : MonoBehaviour
         
     }
 
+    // function for True butoon
    public void selectSister()
    {
     resultPanel.SetActive(true);
@@ -73,6 +74,31 @@ public class Level2Handler : MonoBehaviour
     
 
    }
+
+       // function for False butoon
+   public void selectSister2()
+   {
+    resultPanel.SetActive(true);
+    QandAPanel.SetActive(false);
+
+    if(selected_sister_Name != "Victorina"){
+    correctSound.Play();
+    //Barrier.SetActive(false);
+    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    TMP_result.text = "Correct!";
+    Debug.Log(selected_sister_Name);
+    }
+    else
+    {
+    wrongSound.Play();
+    trial_Remaining = trial_Remaining-1;
+    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    TMP_result.text = "Wrong!";
+    }
+    
+
+   }
+
 
    public void GameOver()
     {
