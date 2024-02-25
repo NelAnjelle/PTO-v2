@@ -2,7 +2,7 @@ using System.Collections;
 using System.Collections.Generic;
 using UnityEngine;
 using TMPro;
-
+using UnityEngine.SceneManagement;
 
 public class Intro : MonoBehaviour
 {
@@ -20,12 +20,13 @@ public class Intro : MonoBehaviour
     void Start()
     {
 
-        
+        Scene currentScene = SceneManager.GetActiveScene();
+        string sceneName = currentScene.name;
         
          hasRunDemo = PlayerPrefs.GetInt("HasRunDemo", 0) == 1;
     
 
-        if (!hasRunDemo)
+        if (!hasRunDemo && sceneName == "Level 1")
          {
             
             introBox.SetActive(true);
