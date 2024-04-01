@@ -56,15 +56,16 @@ void Update()
     {
         Time.timeScale = 1f;
         string nextLevelName = "Level "+ nextLevelInt;
-        //Might be the solution
+        //Might be the solution()
         if(nextLevelInt>PlayerPrefs.GetInt("UnlockedLevel")){
         PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
         Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));
         PlayerPrefs.Save();
         }
-        fadeTransition.LoadSceneWithFade(nextLevelName);
-        //SceneManager.LoadScene(nextLevelName);
 
+
+        fadeTransition.LoadSceneWithFade(nextLevelName);
+       
     }
 
     

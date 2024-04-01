@@ -162,7 +162,7 @@ MonoBehaviour:
   dialogBox: {fileID: 2077773999}
   envlp: {fileID: 2500832}
   Trivia: {fileID: 1271639364}
-  trivia: "Pedro Orata was dubbed as the \u201CFather of  Barangay High School\u201D
+  trivia: "Pedro Orata was dubbed as the \u201CFather of  Barrio High School\u201D
     because of  his advocacy to open public high  schools in every barangay."
 --- !u!61 &2500834
 BoxCollider2D:

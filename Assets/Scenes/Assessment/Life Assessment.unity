@@ -1075,7 +1075,7 @@ MonoBehaviour:
       his last name to Orata?'
     Answers:
     - to avoid being called on to recite first in class.
-    - or reasons related to cultural heritage
+    - reasons related to cultural heritage
     - simplifying pronunciation
     - personal preferences.
     CorrectAnswer: 1
@@ -1088,7 +1088,7 @@ MonoBehaviour:
     CorrectAnswer: 4
   - Question: As a child, how did Dr. Orata manage to support his family?
     Answers:
-    - ' fixing railways'
+    - fixing railways
     - mowing lawns
     - by selling vegetables
     - washing windows
