@@ -1059,10 +1059,10 @@ MonoBehaviour:
   QnA:
   - Question: Who were Pedro Orata's parents?
     Answers:
-    - Numeriana Tamesis-Orata and Candido  Orata.
-    - Numeriana Tamesis-Arata and Candido  Arata.
-    - Numeriana Tamesis-Urata and Candido  Urata.
-    - Numeriana Tamesis-Irata and Candido  Irata.
+    - Numeriana Tamesis-Orata and Candido  Orata
+    - Numeriana Tamesis-Arata and Candido  Arata
+    - Numeriana Tamesis-Urata and Candido  Urata
+    - Numeriana Tamesis-Irata and Candido  Irata
     CorrectAnswer: 2
   - Question: ' In which date was Dr. Pedro T. Orata born?'
     Answers:
@@ -1071,13 +1071,13 @@ MonoBehaviour:
     - March 28, 1898
     - April 29, 1897
     CorrectAnswer: 1
-  - Question: ' What was the primary motivation for Dr. Pedro T. Orata to change
-      his last name to Orata?'
+  - Question: What was the primary motivation for Dr. Pedro T. Orata to change his
+      last name to Orata?
     Answers:
-    - to avoid being called on to recite first in class.
-    - reasons related to cultural heritage
-    - simplifying pronunciation
-    - personal preferences.
+    - To avoid being called on to recite first in class
+    - To avoid being at the first row in the class
+    - To avoid being at the last row in the class
+    - To avoid to mis-pronouns his family name
     CorrectAnswer: 1
   - Question: "What was Pedro Orata\u2019s original family name?"
     Answers:
@@ -1088,28 +1088,26 @@ MonoBehaviour:
     CorrectAnswer: 4
   - Question: As a child, how did Dr. Orata manage to support his family?
     Answers:
-    - fixing railways
-    - mowing lawns
-    - by selling vegetables
-    - washing windows
+    - By fixing railways
+    - By mowing lawns
+    - By selling vegetables
+    - By washing windows
     CorrectAnswer: 3
   - Question: Why did Pedro have to walk four kilometers to Urdaneta to enroll in
       Grade IV?
     Answers:
-    - Pedro had personal or academic ambitions that could only be fulfilled by enrolling
-      in Grade IV in Urdaneta.
-    - Urdaneta had more qualified or experienced teachers for Grade IV
-    - ' Pedro''s family chosen to send him to a school in Urdaneta because it offered
-      a better quality of education'
-    - Because classes in Bactad were only up to grade 3
+    - Because Urdaneta had more qualified or experienced teachers for Grade IV
+    - Because Pedro's family chosen to send him to a school in Urdaneta
+    - Because it offered a better quality of education
+    - 'Because classes in Bactad were only up to grade 3 '
     CorrectAnswer: 4
   - Question: Why did Pedro have to go to Binalonan to attend classes for Grade V?
     Answers:
     - Because no schools were offering Grade V in Urdaneta
-    - his family believed that Binalonan provided a better educational environment
+    - Because his family believed that Binalonan provided a better educational environment
       for Grade V
-    - Binalonan had more experienced and well-qualified Grade V teachers
-    - ' All Grade V classes in Urdaneta schools may have been fully enrolled'
+    - Because binalonan had more experienced and well-qualified Grade V teachers
+    - Because all Grade V classes in Urdaneta schools may have been fully enrolled
     CorrectAnswer: 1
   - Question: In what year did Orata finish his elementary course?
     Answers:

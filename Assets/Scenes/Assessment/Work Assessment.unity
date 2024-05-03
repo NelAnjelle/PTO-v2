@@ -1384,15 +1384,15 @@ MonoBehaviour:
   QnA:
   - Question: Who invited Dr. Orata to serve as an educational expert?
     Answers:
-    - UNESCO
+    - United Nations Educational, Scientific and Cultural Organization
     - Urdaneta Community College
-    - ' Urdaneta City University'
+    - Urdaneta City University
     - University of  Illinois
     CorrectAnswer: 1
   - Question: What did Dr. Orata establish, later renamed as Urdaneta City University?
     Answers:
-    - UNESCO
-    - UCU
+    - United Nations Educational, Scientific and Cultural Organization
+    - Urdaneta City University
     - Urdaneta Community College
     - University of  Illinois
     CorrectAnswer: 3
