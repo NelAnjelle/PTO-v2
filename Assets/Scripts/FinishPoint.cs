@@ -57,6 +57,7 @@ void Update()
         Time.timeScale = 1f;
         string nextLevelName = "Level "+ nextLevelInt;
         //
+        
         if(nextLevelInt>PlayerPrefs.GetInt("UnlockedLevel")){
         PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
         Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));

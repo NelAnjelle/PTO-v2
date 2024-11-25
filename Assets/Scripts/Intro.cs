@@ -45,8 +45,13 @@ public class Intro : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        //
-        
+
+        //-------
+
+        //-------
+       
+        if(Input.GetMouseButtonDown(0))
+        {
             if(textComponent.text == lines[index])
             {
                 NextLine();
@@ -57,12 +62,15 @@ public class Intro : MonoBehaviour
                 textComponent.text = lines[index];
                 
             }
+        }
+
+
+        //-------
+        
         
 
-        //
-        
 
-        //
+        //-------
         
         
     }
