@@ -14,10 +14,10 @@ public class Level2Handler : MonoBehaviour
     public AudioSource correctSound;
     public AudioSource wrongSound;
     public static string selected_sister_Name;
-    public static int trial_Remaining;
+    
     public GameObject resultPanel;
     public GameObject QandAPanel;
-    public TextMeshProUGUI TMP_trialRemaining;
+    public TextMeshProUGUI TMP_trialRemaining; // tiral remaining -> notif na nagdededuct ng time
     public TextMeshProUGUI TMP_result;
 
     public GameObject Barrier;
@@ -29,7 +29,6 @@ public class Level2Handler : MonoBehaviour
     void Start()
     {
         Time.timeScale = 1f;
-        trial_Remaining = 3;
         selected_sister_Name = " ";
         
         
@@ -38,20 +37,10 @@ public class Level2Handler : MonoBehaviour
     void Update()
     {
         
-        if(trial_Remaining==0)
-        {
-            GameOver();
-           // countdownScript.GameOver();
-        }else{
-            //pag wala ito, pag nirestart yung game, nagigiging timescale = 0;
-            // Time.timeScale = 1f;
-            // PauseMenu.isPaused = false;
-        }
-
         
     }
 
-    // function for True butoon
+    // function for True button
    public void selectSister()
    {
     resultPanel.SetActive(true);
@@ -60,15 +49,16 @@ public class Level2Handler : MonoBehaviour
     if(selected_sister_Name == "Victorina"){
     correctSound.Play();
     Barrier.SetActive(false);
-    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    TMP_trialRemaining.text = "";
     TMP_result.text = "Correct!";
     Debug.Log(selected_sister_Name);
     }
     else
     {
     wrongSound.Play();
-    trial_Remaining = trial_Remaining-1;
-    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    Countdown.MinusTime-=10;
+    
+    TMP_trialRemaining.text = "-10 seconds";
     TMP_result.text = "Wrong!";
     }
     
@@ -83,16 +73,14 @@ public class Level2Handler : MonoBehaviour
 
     if(selected_sister_Name != "Victorina"){
     correctSound.Play();
-    //Barrier.SetActive(false);
-    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    TMP_trialRemaining.text = "";
     TMP_result.text = "Correct!";
     Debug.Log(selected_sister_Name);
     }
     else
     {
     wrongSound.Play();
-    trial_Remaining = trial_Remaining-1;
-    TMP_trialRemaining.text = "Trial Remaining: " + trial_Remaining.ToString();
+    TMP_trialRemaining.text = "-10 seconds";
     TMP_result.text = "Wrong!";
     }
     
@@ -107,7 +95,7 @@ public class Level2Handler : MonoBehaviour
         UI.SetActive(false);
         
         Time.timeScale = 0f;
-        Debug.Log(trial_Remaining);
+        
         
         
     }
