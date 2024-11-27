@@ -9,6 +9,10 @@ using UnityEngine.SceneManagement;
 public class CountdownFor11N6 : MonoBehaviour
 {
 
+    //  public AudioSource ClockTickingSound;
+    //  bool isTickingSoundPlayed = false;
+     public GameObject ClockSEHolder;
+
     // start countdown pagkasara ng panel
     public GameObject gameOverMenu;
     public GameObject UI;
@@ -68,7 +72,18 @@ public class CountdownFor11N6 : MonoBehaviour
         int minutes = Mathf.FloorToInt(remainingTime / 60);
         int seconds = Mathf.FloorToInt(remainingTime % 60);
 
-        
+        //for clock sound effects
+    //     if (remainingTime < 10 && remainingTime > 0 && !isTickingSoundPlayed)
+    // {
+    //     ClockTickingSound.Play();
+    //     isTickingSoundPlayed = true;
+    // }
+
+    // if (remainingTime <= 0)
+    // {
+    //     ClockTickingSound.Stop();
+    //     isTickingSoundPlayed = false; // Reset the flag when the countdown ends
+    // }
         
 
         
@@ -83,6 +98,7 @@ public class CountdownFor11N6 : MonoBehaviour
 
 
             if(seconds <= 9){
+                
                 textSecs.text = "0" + Mathf.Round(seconds).ToString();
                 // magdadag ng 0 sa tabi ng number
             if(seconds <  11 && minutes==0)
@@ -93,6 +109,7 @@ public class CountdownFor11N6 : MonoBehaviour
                 textSecs.color = Color.red;
                 textSecs.text ="0" + Mathf.Round(seconds).ToString();
                 //magpapalit ng kulay kapag 5 secs na lang natira
+                
             }
 
             }else{
@@ -100,6 +117,7 @@ public class CountdownFor11N6 : MonoBehaviour
             }
         }
         else{
+            
             textMins.text = "00";
             textSecs.text = "00";
             gameOverText.text = "Times Up!\nGame Over";
