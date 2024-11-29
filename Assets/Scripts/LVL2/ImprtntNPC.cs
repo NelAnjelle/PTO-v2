@@ -7,18 +7,25 @@ using TMPro;
 public class ImprtntNPC : MonoBehaviour
 {
 
+   
+
     public bool playerInImpNPCRange;
     bool isTalked;
     public GameObject Obstacle;
     public GameObject dialogBox;
+    public GameObject Indictr;
     public TextMeshProUGUI Convo;
+
     public string convoText;
 
 
     // Start is called before the first frame update
     void Start()
     {
+        
         isTalked=false;
+        
+        
     }
 
     // Update is called once per frame
@@ -66,6 +73,9 @@ public class ImprtntNPC : MonoBehaviour
                      dialogBox.SetActive(true);
                 
                      Convo.text = convoText;
+                     Indictr.SetActive(true);
+
+                   
                     
                  }
         }
@@ -80,6 +90,7 @@ public class ImprtntNPC : MonoBehaviour
                  {
                     Time.timeScale = 1f;
                      dialogBox.SetActive(false);
+                     Indictr.SetActive(false);
 
                  }else{
                      //dialogBox.SetActive(true);
@@ -87,4 +98,9 @@ public class ImprtntNPC : MonoBehaviour
                  }
         }
     }
+
+
+
+
+   
 }
