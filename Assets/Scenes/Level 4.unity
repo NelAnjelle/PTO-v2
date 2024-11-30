@@ -752,8 +752,9 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 140662969}
   Trivia: {fileID: 2101822278}
-  trivia: Pedro had to go to Binalonan, the town next to Urdaneta, to attend classes
-    since no schools were offering Grade V in Urdaneta.
+  trivia: Pedro <color=white><i><b>had to go to Binalonan </b></i></color>, the town
+    next to Urdaneta, <color=white><i><b>to attend classes </b></i></color> since
+    no schools were offering Grade V in Urdaneta.
 --- !u!61 &140662974
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1082,8 +1083,9 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 223277996}
   Trivia: {fileID: 2101822278}
-  trivia: Classes in Bactad were only up to Grade III. Hence, Pedro had to walk four
-    kilometers to Urdaneta to enroll in Grade IV. Unfortunately, he failed.
+  trivia: Classes in Bactad were only up to Grade III. Hence, <color=white><i><b>Pedro
+    had to walk four kilometers to Urdaneta to enroll in Grade IV</b></i></color>.
+    Unfortunately, he failed.
 --- !u!61 &223277998
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1648,7 +1650,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.499939, y: -192.49997}
+  m_AnchoredPosition: {x: -24.5, y: -192.49997}
   m_SizeDelta: {x: 215, y: 215}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &292600291
@@ -51178,7 +51180,8 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 367651080}
   Trivia: {fileID: 2101822278}
-  trivia: Pedro Orata  supported his family by selling vegetables at young age
+  trivia: Pedro Orata  supported his family by <color=white><i><b>selling vegetables</b></i></color>
+    at young age
 --- !u!61 &367651085
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -52147,8 +52150,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Countdown, Assembly-CSharp
+      - m_Target: {fileID: 1125409570}
+        m_TargetAssemblyTypeName: CountdownFor11N6, Assembly-CSharp
         m_MethodName: RestartGame
         m_Mode: 1
         m_Arguments:
@@ -55349,8 +55352,8 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 869111412}
   Trivia: {fileID: 2101822278}
-  trivia: The following year, intermediate grades were offered in Urdaneta, and Pedro
-    finished his elementary course there in 1916.
+  trivia: The following year, intermediate grades were offered in Urdaneta, and <color=white><b>Pedro
+    finished his elementary </b></color> course there <color=white><b>in 1916 </b></color>.
 --- !u!61 &869111417
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -56798,7 +56801,8 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 1124516006}
   Trivia: {fileID: 2101822278}
-  trivia: Pedro finished high school as valedictorian of his Class of 1920.
+  trivia: Pedro finished high school as <color=white><b>valedictorian </b></color>
+    of his <color=white><b>Class of 1920 </b></color>.
 --- !u!61 &1124516011
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -57183,8 +57187,8 @@ MonoBehaviour:
   dialogBox: {fileID: 2133557238}
   envlp: {fileID: 1133835806}
   Trivia: {fileID: 2101822278}
-  trivia: Pedro enrolled in the only public high school in Pangasinan, located in
-    Lingayen.
+  trivia: Pedro enrolled in the only <color=white><b>public high school in Pangasinan,
+    located in Lingayen </b></color>.
 --- !u!61 &1133835808
 BoxCollider2D:
   m_ObjectHideFlags: 0

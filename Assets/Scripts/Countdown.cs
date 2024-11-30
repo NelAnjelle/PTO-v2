@@ -39,7 +39,9 @@ public class Countdown : MonoBehaviour
         
         if(Intro.hasRunDemo){
             Intro.startPlaying=true;
+            Debug.Log(Intro.startPlaying);
         } 
+        
         
         
 
@@ -59,6 +61,7 @@ public class Countdown : MonoBehaviour
 
         TimerSecs -= Time.deltaTime;
         remainingTime=TimerSecs+AddedTime+MinusTime;
+        //Debug.Log("Time remaining: "+remainingTime);
         
         
         

@@ -3238,7 +3238,7 @@ MonoBehaviour:
   dialogBox: {fileID: 123092416}
   envlp: {fileID: 353324367}
   Trivia: {fileID: 573790325}
-  trivia: "Pedro Orata\u2019s original name was \u201CArata\u201D"
+  trivia: "Pedro Orata\u2019s original name was<color=white><i><b> \u201CArata\u201D</b></i></color>"
 --- !u!61 &353324369
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -36411,7 +36411,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.499939, y: -192.49997}
+  m_AnchoredPosition: {x: -24.5, y: -192.49997}
   m_SizeDelta: {x: 215, y: 215}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &425157305
@@ -37876,8 +37876,9 @@ MonoBehaviour:
   dialogBox: {fileID: 123092416}
   envlp: {fileID: 707704772}
   Trivia: {fileID: 573790325}
-  trivia: Dr. Pedro T. Orata changed his family name from Arata to Orata to avoid
-    being called on first in class when teachers arranged students alphabetically.
+  trivia: Dr. Pedro T. Orata changed his family name from <color=white><i><b>Arata
+    to Orata</b></i></color> to avoid being called on first in class when teachers
+    arranged students alphabetically.
 --- !u!61 &707704777
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -43571,7 +43572,7 @@ MonoBehaviour:
   dialogBox: {fileID: 123092416}
   envlp: {fileID: 1973880231}
   Trivia: {fileID: 573790325}
-  trivia: Pedro T. Orata was born in February 27,1899
+  trivia: Pedro T. Orata was born in <color=white><i><b>February 27,1899</b></i></color>
 --- !u!50 &1973880237
 Rigidbody2D:
   serializedVersion: 5

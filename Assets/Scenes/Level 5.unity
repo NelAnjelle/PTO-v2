@@ -326,8 +326,8 @@ PrefabInstance:
       objectReference: {fileID: 1084709264}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
-      value: "On weekends, Orata would accept odd jobs\u2014washing windows, mowing
-        lawns, and cleaning homes."
+      value: "On weekends, Orata would accept odd jobs\u2014 <color=white><b>washing
+        windows, mowing lawns, and cleaning homes. </b></color>"
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
@@ -2470,7 +2470,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.499939, y: -192.49997}
+  m_AnchoredPosition: {x: -24.5, y: -192.49997}
   m_SizeDelta: {x: 215, y: 215}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &465961461
@@ -4381,8 +4381,9 @@ PrefabInstance:
       objectReference: {fileID: 1084709264}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
-      value: Orata worked grueling hours fixing railways in Montana. He saved enough
-        to enroll at the University of Illinois in September 1920.
+      value: Orata worked grueling hours <color=white><b>fixing railways </b></color>
+        in Montana. He saved enough <color=white><b>to enroll at the University of
+        Illinois in September 1920 </b></color>.
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
@@ -5259,8 +5260,9 @@ PrefabInstance:
       objectReference: {fileID: 1084709264}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
-      value: "Pedro Orata graduated his degree in education at the University of
-        Illinois at Urbana \u201Cwith final honors.\u201D"
+      value: "<color=white><b>Pedro Orata graduated his degree in education at the
+        University of Illinois </b></color> at Urbana <color=white><b> \u201Cwith
+        final honors.\u201D </b></color>"
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
@@ -6196,8 +6198,8 @@ MonoBehaviour:
   m_OnClick:
     m_PersistentCalls:
       m_Calls:
-      - m_Target: {fileID: 0}
-        m_TargetAssemblyTypeName: Countdown, Assembly-CSharp
+      - m_Target: {fileID: 1501438770}
+        m_TargetAssemblyTypeName: CountdownFor11N6, Assembly-CSharp
         m_MethodName: RestartGame
         m_Mode: 1
         m_Arguments:
@@ -60149,8 +60151,9 @@ PrefabInstance:
       objectReference: {fileID: 1084709264}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
-      value: "Pedro continued his studies, earning his master\u2019s degree in 1925
-        at the University of Illinois and his Ph.D. at Ohio State University in 1927."
+      value: "Pedro continued his studies, earning his <color=white><b>master\u2019s
+        degree in 1925 at the University of Illinois and his Ph.D. at Ohio State
+        University in 1927</b></color>."
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier

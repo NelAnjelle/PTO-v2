@@ -1323,7 +1323,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -24.499939, y: -122.499985}
+  m_AnchoredPosition: {x: -24.5, y: -122.5}
   m_SizeDelta: {x: 215, y: 215}
   m_Pivot: {x: 1, y: 1}
 --- !u!114 &310884461
@@ -1823,7 +1823,7 @@ PrefabInstance:
       objectReference: {fileID: 1596419645}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: convoText
-      value: Hello! I'm Victorina, Pedro's younger sister.
+      value: Hello! I'm  <color=white><i><b>Victorina, Pedro's younger sister</b></i></color>.
       objectReference: {fileID: 0}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: dialogBox
@@ -2109,7 +2109,7 @@ PrefabInstance:
       objectReference: {fileID: 1382536786}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: convoText
-      value: I'm Pedro's Father. My name is Candido Arata.
+      value: I'm Pedro's Father. My name is <color=white><i><b> Candido Arata</b></i></color>.
       objectReference: {fileID: 0}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: dialogBox
@@ -13519,7 +13519,7 @@ PrefabInstance:
       objectReference: {fileID: 1568431179}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: convoText
-      value: Hello! I'm Pedro's mother,<i><b> Numeriana Tamesis-Arata</b></i></color>
+      value: Hello! I'm Pedro's mother, <color=white><i><b> Numeriana Tamesis-Arata</b></i></color>
       objectReference: {fileID: 0}
     - target: {fileID: 2260625648659736541, guid: c91285154b9903d4eace4adb2e5f8320, type: 3}
       propertyPath: dialogBox
