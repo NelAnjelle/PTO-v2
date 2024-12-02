@@ -41220,6 +41220,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (7)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 0.94452095
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.04550171
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -42310,6 +42322,14 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.85721684
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.06314945
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -58111,6 +58131,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (6)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 1.0592308
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.023521423
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -58679,6 +58711,14 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.9090719
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.004881859
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -61219,6 +61259,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 0.9152459
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.0069190264
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.035640717
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -61898,6 +61950,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 2005558574}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 1.2518578
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.013690233
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.010482788
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime
@@ -64003,6 +64067,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 1.0775166
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.009737015
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -64741,6 +64813,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.90771866
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.019929886
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65357,6 +65437,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 0.82627296
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.047380447
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65528,7 +65620,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: 0.047161102, y: -0.0028805733}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -65538,7 +65630,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 1.0416666}
+  m_Size: {x: 2.3191147, y: 2.4642458}
   m_EdgeRadius: 0
 --- !u!95 &1779565572
 Animator:
@@ -66053,6 +66145,18 @@ PrefabInstance:
     - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Name
       value: addTime (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 1.0269394
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.06334686
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -107485,7 +107589,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.02173233, y: -0.06841946}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -107495,7 +107599,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 1.0416666}
+  m_Size: {x: 2.4211502, y: 2.5244884}
   m_EdgeRadius: 0
 --- !u!95 &2010139732
 Animator:

@@ -75554,6 +75554,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.6775298
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0141329765
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []

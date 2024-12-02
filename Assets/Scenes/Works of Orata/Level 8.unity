@@ -861,6 +861,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.613708
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.023815632
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -2120,6 +2128,14 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.6491313
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.009196758
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -34519,6 +34535,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (2)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.59597206
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.06608486
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65396,6 +65420,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.6008949
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.00026893616
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -65665,6 +65697,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1645945033}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 0.74171627
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.x
+      value: -0.008089662
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0024204254
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime (1)

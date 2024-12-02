@@ -2991,6 +2991,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.90004015
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.04505205
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -3773,7 +3781,7 @@ BoxCollider2D:
   m_UsedByEffector: 0
   m_CompositeOperation: 0
   m_CompositeOrder: 0
-  m_Offset: {x: 0, y: 0}
+  m_Offset: {x: -0.13956547, y: 0.06778908}
   m_SpriteTilingProperty:
     border: {x: 0, y: 0, z: 0, w: 0}
     pivot: {x: 0.5, y: 0.5}
@@ -3783,7 +3791,7 @@ BoxCollider2D:
     drawMode: 0
     adaptiveTiling: 0
   m_AutoTiling: 0
-  m_Size: {x: 0.5, y: 1.0416666}
+  m_Size: {x: 2.693182, y: 2.548977}
   m_EdgeRadius: 0
 --- !u!95 &737294958
 Animator:
@@ -5191,6 +5199,14 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb
       objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 0.88002634
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.06552267
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -5796,6 +5812,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1226610127}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 0.85323334
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.013625145
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime
@@ -48442,6 +48466,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 1226610127}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 0.8912034
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.010207653
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime (1)
@@ -107590,6 +107622,14 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Radius
+      value: 1.2435832
+      objectReference: {fileID: 0}
+    - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0397439
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

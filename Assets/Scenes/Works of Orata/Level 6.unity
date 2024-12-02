@@ -3635,6 +3635,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 0.6494999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.00999999
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.008853912
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -4240,6 +4252,22 @@ PrefabInstance:
     - target: {fileID: 4143823248237440384, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
       propertyPath: m_Name
       value: Shoe (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 5189647357085617720, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
+      propertyPath: m_Size.x
+      value: 1.7970066
+      objectReference: {fileID: 0}
+    - target: {fileID: 5189647357085617720, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
+      propertyPath: m_Size.y
+      value: 1.7770143
+      objectReference: {fileID: 0}
+    - target: {fileID: 5189647357085617720, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.022091866
+      objectReference: {fileID: 0}
+    - target: {fileID: 5189647357085617720, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.000046491623
       objectReference: {fileID: 0}
     - target: {fileID: 6214293142147825743, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
       propertyPath: m_RootOrder

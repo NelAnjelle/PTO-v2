@@ -260,6 +260,18 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Radius
+      value: 0.57409286
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.x
+      value: 0.0099983215
+      objectReference: {fileID: 0}
+    - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_Offset.y
+      value: 0.0223248
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
     m_AddedGameObjects: []
@@ -51313,6 +51325,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 94870789}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 0.7724185
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.008428574
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime (5)
@@ -57408,6 +57428,14 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 94870789}
     m_Modifications:
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Radius
+      value: 0.76822704
+      objectReference: {fileID: 0}
+    - target: {fileID: 152380586997775517, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_Offset.y
+      value: -0.016600907
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime (3)
