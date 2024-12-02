@@ -511,8 +511,8 @@ MonoBehaviour:
   envlp: {fileID: 70697178}
   Trivia: {fileID: 213881656}
   trivia: Dr. Orata's approach was guided by empathy and a sense of solidarity with
-    those in need. He believed that true service extended beyond material gain and
-    required genuine care for others.
+    those in need. He believed that <color=white><b>true service extended beyond
+    material gain and required genuine care for others</b></color>.
 --- !u!1 &98305120
 GameObject:
   m_ObjectHideFlags: 0
@@ -88621,8 +88621,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1612053226}
   envlp: {fileID: 1964702111}
   Trivia: {fileID: 213881656}
-  trivia: Dr. Orata's commitment to volunteerism and community service was not only
-    about helping individuals but also about contributing to nation-building
+  trivia: Dr. Orata's commitment to <color=white><b>volunteerism and community service
+    was not only about helping individuals but also about contributing to nation-building</b></color>
 --- !u!61 &1964702113
 BoxCollider2D:
   m_ObjectHideFlags: 0

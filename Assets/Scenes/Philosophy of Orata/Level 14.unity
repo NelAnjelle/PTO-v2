@@ -94391,8 +94391,8 @@ MonoBehaviour:
   dialogBox: {fileID: 8010752}
   envlp: {fileID: 1699088831}
   Trivia: {fileID: 1594766504}
-  trivia: 'Dr. Orata''s vision was to provide quality education and transform the
-    lives of his countrymen through community service. '
+  trivia: <color=white><b>Dr. Orata's vision was to provide quality education </b></color>
+    and transform the lives of his countrymen through community service.
 --- !u!61 &1699088833
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -108415,9 +108415,9 @@ MonoBehaviour:
   dialogBox: {fileID: 8010752}
   envlp: {fileID: 2125256027}
   Trivia: {fileID: 1594766504}
-  trivia: Dr. Orata believed in the power of volunteerism, which involves devoting
-    one's time, effort, and skills for the benefit of others without expecting financial
-    compensation.
+  trivia: Dr. Orata believed in the <color=white><b>power of volunteerism</b></color>,
+    which involves devoting one's time, effort, and skills for the benefit of others
+    without expecting financial compensation.
 --- !u!114 &2128960261 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5372644608820225628, guid: f5131963b51f5e4498eeb85696dcd12e, type: 3}

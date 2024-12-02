@@ -19276,8 +19276,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1831920317}
   envlp: {fileID: 1189599047}
   Trivia: {fileID: 808623450}
-  trivia: Orata founded the Urdaneta  Community College, now known as the Urdaneta 
-    City University
+  trivia: Orata founded the <color=white><b> Urdaneta  Community College </b></color>,
+    now known as the <color=white><b> Urdaneta  City University </b></color>
 --- !u!61 &1189599049
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -20024,7 +20024,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1831920317}
   envlp: {fileID: 1307856056}
   Trivia: {fileID: 808623450}
-  trivia: Dr. Orata was invited by UNESCO to serve as an educational expert
+  trivia: Dr. Orata was <color=white><b>invited by UNESCO to serve as an educational
+    expert</b></color>
 --- !u!4 &1310339591 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 183784274198582376, guid: 85b305b07876d75408da4824885ab71b, type: 3}

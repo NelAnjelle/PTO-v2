@@ -158,8 +158,9 @@ MonoBehaviour:
   dialogBox: {fileID: 2077773999}
   envlp: {fileID: 2500832}
   Trivia: {fileID: 1271639364}
-  trivia: "Pedro Orata was dubbed as the \u201CFather of  Barrio High School\u201D
-    because of  his advocacy to open public high  schools in every barangay."
+  trivia: "Pedro Orata was dubbed as the \u201C<color=white><b>Father of  Barrio
+    High School </b></color>\u201D because of  his advocacy to open public high 
+    schools in every barangay."
 --- !u!61 &2500834
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -1170,8 +1171,8 @@ MonoBehaviour:
   dialogBox: {fileID: 2077773999}
   envlp: {fileID: 159992480}
   Trivia: {fileID: 1271639364}
-  trivia: Dr. Orata received the prestigious Ramon Magsaysay Award for Public Service
-    in 1971
+  trivia: Dr. Orata received the prestigious <color=white><b>Ramon Magsaysay Award
+    for Public Service in 1971 </b></color>
 --- !u!1 &208113043
 GameObject:
   m_ObjectHideFlags: 0

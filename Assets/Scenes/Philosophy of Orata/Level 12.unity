@@ -56439,8 +56439,9 @@ MonoBehaviour:
   envlp: {fileID: 344189569}
   Trivia: {fileID: 1365973530}
   trivia: Dr. Orata's vision was deeply rooted in community engagement. He believed
-    that education should not be confined within the walls of an institution but
-    should branch out to contribute to nation-building and globalization.
+    that <color=white><b>education should not be confined within the walls of an
+    institution</b></color> but should branch out to contribute to nation-building
+    and globalization.
 --- !u!61 &344189571
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -64895,7 +64896,8 @@ MonoBehaviour:
   envlp: {fileID: 1640905760}
   Trivia: {fileID: 1365973530}
   trivia: Dr. Orata's philosophy included a commitment to excellence in education.
-    He aimed for academic excellence and character transformation to go hand in hand.
+    He aimed for <color=white><b>academic excellence and character transformation</b></color>
+    to go hand in hand.
 --- !u!1001 &1667611146
 PrefabInstance:
   m_ObjectHideFlags: 0

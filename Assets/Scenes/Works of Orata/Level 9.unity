@@ -66851,8 +66851,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1364205557}
   envlp: {fileID: 859778267}
   Trivia: {fileID: 812642665}
-  trivia: Dr. Orata's perseverance and commitment to education led him to graduate
-    with honors and earn multiple degrees, including a Ph.D.
+  trivia: Dr. Orata's perseverance and commitment to education led him to <color=white><b>graduate
+    with honors and earn multiple degrees, including a Ph.D. </b></color>
 --- !u!1 &886432442
 GameObject:
   m_ObjectHideFlags: 0
@@ -145251,8 +145251,9 @@ MonoBehaviour:
   dialogBox: {fileID: 1364205557}
   envlp: {fileID: 2083154697}
   Trivia: {fileID: 812642665}
-  trivia: Dr. Orata demonstrated his commitment to education by allocating his salary
-    and allowances as UCU's president to support students who faced financial difficulties.
+  trivia: Dr. Orata demonstrated his commitment to education by <color=white><b>allocating
+    his salary and allowances</b></color> as UCU's president <color=white><b>to support
+    students who faced financial difficulties </b></color>.
 --- !u!61 &2083154699
 BoxCollider2D:
   m_ObjectHideFlags: 0

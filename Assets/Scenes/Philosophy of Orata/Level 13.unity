@@ -19507,8 +19507,8 @@ MonoBehaviour:
   dialogBox: {fileID: 967215882}
   envlp: {fileID: 426420710}
   Trivia: {fileID: 1867110214}
-  trivia: Dr. Orata encouraged students and the university community to be creative
-    and forward-thinking while also respecting traditions of excellence.
+  trivia: Dr. Orata encouraged students and the university community to <color=white><b>be
+    creative and forward-thinking while also respecting traditions of excellence</b></color>.
 --- !u!61 &426420712
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -74566,7 +74566,8 @@ MonoBehaviour:
   dialogBox: {fileID: 967215882}
   envlp: {fileID: 709405236}
   Trivia: {fileID: 1867110214}
-  trivia: '"nobility," is the central philosophy associated with Dr. Orata.'
+  trivia: '"<color=white><b>nobility</b></color>" is the central philosophy associated
+    with Dr. Orata.'
 --- !u!1 &729370646
 GameObject:
   m_ObjectHideFlags: 0

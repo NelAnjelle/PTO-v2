@@ -490,8 +490,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1803852785}
   envlp: {fileID: 56958480}
   Trivia: {fileID: 1021578173}
-  trivia: 'Dr. Pedro T. Orata''s famous vision was "Education for all, for life,
-    and throughout life." '
+  trivia: Dr. Pedro T. Orata's famous vision was "<color=white><b>Education for all,
+    for life, and throughout life.</b></color>"
 --- !u!1001 &68563568
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -73285,7 +73285,8 @@ MonoBehaviour:
   dialogBox: {fileID: 1803852785}
   envlp: {fileID: 1988197907}
   Trivia: {fileID: 1021578173}
-  trivia: Dr. Orata emphasized character development as an essential aspect of education.
+  trivia: Dr. Orata emphasized <color=white><b>character development as an essential
+    aspect of education</b></color>.
 --- !u!61 &1988197909
 BoxCollider2D:
   m_ObjectHideFlags: 0

@@ -239,9 +239,9 @@ MonoBehaviour:
   dialogBox: {fileID: 371279188}
   envlp: {fileID: 38382602}
   Trivia: {fileID: 964237425}
-  trivia: 'He expressed his commitment to using the Ramon Magsaysay Award for the
-    further extension of educational projects, not only in the Philippines but also
-    abroad. '
+  trivia: He expressed his commitment to using the Ramon Magsaysay Award for the
+    <color=white><b>further extension of educational projects, not only in the Philippines
+    but also abroad </b></color>.
 --- !u!61 &38382604
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -75199,7 +75199,8 @@ MonoBehaviour:
   envlp: {fileID: 2078382874}
   Trivia: {fileID: 964237425}
   trivia: He collaborated with various government agencies, officials, and local
-    communities to make education accessible to those living in rural areas.
+    communities to <color=white><b>make education accessible to those living in rural
+    areas</b></color>.
 --- !u!1001 &2090254109
 PrefabInstance:
   m_ObjectHideFlags: 0

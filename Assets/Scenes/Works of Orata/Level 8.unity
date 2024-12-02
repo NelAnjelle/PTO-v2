@@ -315,8 +315,8 @@ MonoBehaviour:
   dialogBox: {fileID: 949842252}
   envlp: {fileID: 18255061}
   Trivia: {fileID: 2100969738}
-  trivia: 'Dr. Orata was an advocate for multilingual education and recognized the
-    importance of teaching students in their mother tongue. '
+  trivia: Dr. Orata was an <color=white><b>advocate for multilingual education</b></color>
+    and recognized the importance of teaching students in their mother tongue.
 --- !u!61 &18255063
 BoxCollider2D:
   m_ObjectHideFlags: 0
@@ -65034,8 +65034,9 @@ MonoBehaviour:
   dialogBox: {fileID: 949842252}
   envlp: {fileID: 1263635001}
   Trivia: {fileID: 2100969738}
-  trivia: Pedro Orata dissertation at Ohio State University criticized "parallelism"
-    in education, which had a major impact on the field of psychology.
+  trivia: <color=white><b>Pedro Orata dissertation at Ohio State University criticized
+    "parallelism" in education</b></color>, which had a major impact on the field
+    of psychology.
 --- !u!1001 &1300615211
 PrefabInstance:
   m_ObjectHideFlags: 0
