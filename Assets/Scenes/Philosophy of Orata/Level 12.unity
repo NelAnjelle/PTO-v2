@@ -60542,6 +60542,63 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcab237bdf9f16a42a9dcf677d443230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1001 &989193113
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1873656258}
+    m_Modifications:
+    - target: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_Name
+      value: ClockSE
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8a728921a7af141aba9f894697e925, type: 3}
 --- !u!1001 &989199036
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -61942,6 +61999,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcab237bdf9f16a42a9dcf677d443230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &1267401550 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 989193113}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &1267401551 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 989193113}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &1267401552 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 4307699170637667374, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 989193113}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &1280044172
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -62228,6 +62300,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 73a22164fa4d10c47b97b2b57f563e4d, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ClockTickingSound: {fileID: 1267401552}
+  ClockSEHolder: {fileID: 1267401550}
   gameOverMenu: {fileID: 1802475104}
   UI: {fileID: 572470216}
   TimerSecs: 210
@@ -66280,6 +66354,7 @@ Transform:
   m_Children:
   - {fileID: 2102437033}
   - {fileID: 765941051}
+  - {fileID: 1267401551}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!114 &1874464995 stripped
