@@ -3238,7 +3238,8 @@ MonoBehaviour:
   dialogBox: {fileID: 123092416}
   envlp: {fileID: 353324367}
   Trivia: {fileID: 573790325}
-  trivia: "Pedro Orata\u2019s original name was<color=white><i><b> \u201CArata\u201D</b></i></color>"
+  trivia: "Pedro Orata\u2019s original <color=white><i><b>family name</b></i></color>
+    was<color=white><i><b> \u201CArata\u201D</b></i></color>"
 --- !u!61 &353324369
 BoxCollider2D:
   m_ObjectHideFlags: 0
