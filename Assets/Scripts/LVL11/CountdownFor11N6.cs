@@ -9,8 +9,8 @@ using UnityEngine.SceneManagement;
 public class CountdownFor11N6 : MonoBehaviour
 {
 
-    //  public AudioSource ClockTickingSound;
-    //  bool isTickingSoundPlayed = false;
+     public AudioSource ClockTickingSound;
+     bool isTickingSoundPlayed = false;
      public GameObject ClockSEHolder;
 
     // start countdown pagkasara ng panel
@@ -74,17 +74,17 @@ public class CountdownFor11N6 : MonoBehaviour
         int seconds = Mathf.FloorToInt(remainingTime % 60);
 
         //for clock sound effects
-    //     if (remainingTime < 10 && remainingTime > 0 && !isTickingSoundPlayed)
-    // {
-    //     ClockTickingSound.Play();
-    //     isTickingSoundPlayed = true;
-    // }
+        if (remainingTime < 10 && remainingTime > 0 && !isTickingSoundPlayed)
+    {
+        ClockTickingSound.Play();
+        isTickingSoundPlayed = true;
+    }
 
-    // if (remainingTime <= 0)
-    // {
-    //     ClockTickingSound.Stop();
-    //     isTickingSoundPlayed = false; // Reset the flag when the countdown ends
-    // }
+    if (remainingTime <= 0)
+    {
+        ClockTickingSound.Stop();
+        isTickingSoundPlayed = false; // Reset the flag when the countdown ends
+    }
         
 
         

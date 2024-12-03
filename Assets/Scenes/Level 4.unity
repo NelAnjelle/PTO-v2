@@ -55563,6 +55563,38 @@ Transform:
   m_CorrespondingSourceObject: {fileID: 183784274198582376, guid: 85b305b07876d75408da4824885ab71b, type: 3}
   m_PrefabInstance: {fileID: 870324512}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &875078696
+GameObject:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  serializedVersion: 6
+  m_Component:
+  - component: {fileID: 875078697}
+  m_Layer: 0
+  m_Name: Sounds
+  m_TagString: Untagged
+  m_Icon: {fileID: 0}
+  m_NavMeshLayer: 0
+  m_StaticEditorFlags: 0
+  m_IsActive: 1
+--- !u!4 &875078697
+Transform:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 875078696}
+  serializedVersion: 2
+  m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
+  m_LocalPosition: {x: -5.5371056, y: -0.236989, z: -0.18439102}
+  m_LocalScale: {x: 1, y: 1, z: 1}
+  m_ConstrainProportionsScale: 0
+  m_Children:
+  - {fileID: 2057902644}
+  m_Father: {fileID: 0}
+  m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &881365733
 GameObject:
   m_ObjectHideFlags: 0
@@ -55881,6 +55913,63 @@ AudioSource:
     m_PreInfinity: 2
     m_PostInfinity: 2
     m_RotationOrder: 4
+--- !u!1001 &909037571
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 875078697}
+    m_Modifications:
+    - target: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_Name
+      value: ClockSE
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8a728921a7af141aba9f894697e925, type: 3}
 --- !u!1001 &947650810
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -57083,7 +57172,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 110e79235c26cc84685636dc84693e66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ClockSEHolder: {fileID: 0}
+  ClockTickingSound: {fileID: 2057902645}
+  ClockSEHolder: {fileID: 2057902643}
   gameOverMenu: {fileID: 508475489}
   UI: {fileID: 1065064637}
   Reminder: {fileID: 180528382}
@@ -78022,6 +78112,21 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: dcab237bdf9f16a42a9dcf677d443230, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+--- !u!1 &2057902643 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 909037571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &2057902644 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 909037571}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &2057902645 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 4307699170637667374, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 909037571}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1001 &2098578558
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -78768,3 +78873,4 @@ SceneRoots:
   - {fileID: 41615181}
   - {fileID: 1684782840}
   - {fileID: 1413947154}
+  - {fileID: 875078697}

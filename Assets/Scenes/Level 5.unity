@@ -3814,6 +3814,21 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: f5131963b51f5e4498eeb85696dcd12e, type: 3}
+--- !u!1 &847566582 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 1443224796}
+  m_PrefabAsset: {fileID: 0}
+--- !u!4 &847566583 stripped
+Transform:
+  m_CorrespondingSourceObject: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 1443224796}
+  m_PrefabAsset: {fileID: 0}
+--- !u!82 &847566584 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 4307699170637667374, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+  m_PrefabInstance: {fileID: 1443224796}
+  m_PrefabAsset: {fileID: 0}
 --- !u!4 &854358596 stripped
 Transform:
   m_CorrespondingSourceObject: {fileID: 5372644608820225631, guid: f5131963b51f5e4498eeb85696dcd12e, type: 3}
@@ -7030,6 +7045,7 @@ Transform:
   m_Children:
   - {fileID: 1151373270}
   - {fileID: 1982553046}
+  - {fileID: 847566583}
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!1 &1437377124
@@ -7191,6 +7207,63 @@ RectTransform:
   m_AnchoredPosition: {x: 0, y: 0}
   m_SizeDelta: {x: 800, y: 200}
   m_Pivot: {x: 0.5, y: 0.5}
+--- !u!1001 &1443224796
+PrefabInstance:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Modification:
+    serializedVersion: 3
+    m_TransformParent: {fileID: 1410606051}
+    m_Modifications:
+    - target: {fileID: 5873082805454323427, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_Name
+      value: ClockSE
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalPosition.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.w
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalRotation.z
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.y
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 6038955851410996473, guid: ef8a728921a7af141aba9f894697e925, type: 3}
+      propertyPath: m_LocalEulerAnglesHint.z
+      value: 0
+      objectReference: {fileID: 0}
+    m_RemovedComponents: []
+    m_RemovedGameObjects: []
+    m_AddedGameObjects: []
+    m_AddedComponents: []
+  m_SourcePrefab: {fileID: 100100000, guid: ef8a728921a7af141aba9f894697e925, type: 3}
 --- !u!1 &1453879740
 GameObject:
   m_ObjectHideFlags: 0
@@ -7630,7 +7703,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 110e79235c26cc84685636dc84693e66, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  ClockSEHolder: {fileID: 0}
+  ClockTickingSound: {fileID: 847566584}
+  ClockSEHolder: {fileID: 847566582}
   gameOverMenu: {fileID: 696390037}
   UI: {fileID: 1576071174}
   Reminder: {fileID: 1899389956}
