@@ -65,7 +65,7 @@ public class Countdown : MonoBehaviour
 
         TimerSecs -= Time.deltaTime;
         remainingTime=TimerSecs+AddedTime+MinusTime;
-        Debug.Log("Time remaining: "+remainingTime);
+        //Debug.Log("Time remaining: "+remainingTime);
         
         
         
