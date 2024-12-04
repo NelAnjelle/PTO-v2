@@ -3,6 +3,10 @@ using UnityEngine;
 public class Stars : MonoBehaviour
 {
 
+    public static int Categ1TotalStars;
+    public static int Categ2TotalStars;
+    public static int Categ3TotalStars; 
+
     public static int Level1TotalStars;
     public static int Level2TotalStars;
     public static int Level3TotalStars;
@@ -24,6 +28,7 @@ public class Stars : MonoBehaviour
     void Start()
     {
         
+        //Categ1TotalStars = Level1TotalStars + Level2TotalStars + Level3TotalStars + Level4TotalStars + Level5TotalStars;
     }
 
     // Update is called once per frame
@@ -31,4 +36,5 @@ public class Stars : MonoBehaviour
     {
         
     }
+
 }

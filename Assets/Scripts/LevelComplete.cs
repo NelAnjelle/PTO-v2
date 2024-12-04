@@ -56,6 +56,7 @@ public class LevelComplete : MonoBehaviour
 
     public void CalculateStars(){
         int ThisLevelStar =0;
+        int ThisLevelHighscore=0;
 
         isLevelComplete = true;
         Time.timeScale = 0f;
@@ -95,68 +96,112 @@ public class LevelComplete : MonoBehaviour
 
 
 
+        if (ThisLevelStar > ThisLevelHighscore)
+        {
+            // Update the high score
+            ThisLevelHighscore = ThisLevelStar;
+            Debug.Log("New high score for this level"+ ThisLevelHighscore);
+        }
+
+
+
 
 
         if(currentSceneName=="Level 1"){
-            Stars.Level1TotalStars = ThisLevelStar;
+            Stars.Level1TotalStars = ThisLevelHighscore;
             Debug.Log("Level 1 stars:" + Stars.Level1TotalStars);
+            PlayerPrefs.SetInt("Level1TotalStars", Stars.Level1TotalStars);
+
+            
         }
         else if(currentSceneName=="Level 2"){
-            Stars.Level2TotalStars = ThisLevelStar;
+            Stars.Level2TotalStars = ThisLevelHighscore;
             Debug.Log("Level 2 stars:" + Stars.Level2TotalStars);
+            PlayerPrefs.SetInt("Level2TotalStars", Stars.Level2TotalStars);
         }
         else if(currentSceneName=="Level 3"){
-            Stars.Level3TotalStars = ThisLevelStar;
+            Stars.Level3TotalStars = ThisLevelHighscore;
             Debug.Log("Level 3 stars:" + Stars.Level3TotalStars);
+            PlayerPrefs.SetInt("Level3TotalStars", Stars.Level3TotalStars);
         }
         else if(currentSceneName=="Level 4"){
-            Stars.Level4TotalStars = ThisLevelStar;
+            Stars.Level4TotalStars = ThisLevelHighscore;
             Debug.Log("Level 4 stars:" + Stars.Level4TotalStars);
+            PlayerPrefs.SetInt("Level4TotalStars", Stars.Level4TotalStars);
         }
         else if(currentSceneName=="Level 5"){
-            Stars.Level5TotalStars = ThisLevelStar;
+            Stars.Level5TotalStars = ThisLevelHighscore;
             Debug.Log("Level 5 stars:" + Stars.Level5TotalStars);
+            PlayerPrefs.SetInt("Level5TotalStars", Stars.Level5TotalStars);
         }
         else if(currentSceneName=="Level 6"){
-            Stars.Level6TotalStars = ThisLevelStar;
+            Stars.Level6TotalStars = ThisLevelHighscore;
             Debug.Log("Level 6 stars:" + Stars.Level6TotalStars);
+            PlayerPrefs.SetInt("Level6TotalStars", Stars.Level6TotalStars);
         }
         else if(currentSceneName=="Level 7"){
-            Stars.Level7TotalStars = ThisLevelStar;
+            Stars.Level7TotalStars = ThisLevelHighscore;
             Debug.Log("Level 7 stars:" + Stars.Level7TotalStars);
+            PlayerPrefs.SetInt("Level7TotalStars", Stars.Level7TotalStars);
         }
         else if(currentSceneName=="Level 8"){
-            Stars.Level8TotalStars = ThisLevelStar;
+            Stars.Level8TotalStars = ThisLevelHighscore;
             Debug.Log("Level 8 stars:" + Stars.Level8TotalStars);
+            PlayerPrefs.SetInt("Level8TotalStars", Stars.Level8TotalStars);
         }
         else if(currentSceneName=="Level 9"){
-            Stars.Level9TotalStars = ThisLevelStar;
+            Stars.Level9TotalStars = ThisLevelHighscore;
             Debug.Log("Level 9 stars:" + Stars.Level9TotalStars);
+            PlayerPrefs.SetInt("Level9TotalStars", Stars.Level9TotalStars);
         }
         else if(currentSceneName=="Level 10"){
-            Stars.Level10TotalStars = ThisLevelStar;
+            Stars.Level10TotalStars = ThisLevelHighscore;
             Debug.Log("Level 10 stars:" + Stars.Level10TotalStars);
+            PlayerPrefs.SetInt("Level10TotalStars", Stars.Level10TotalStars);
         }
         else if(currentSceneName=="Level 11"){
-            Stars.Level11TotalStars = ThisLevelStar;
+            Stars.Level11TotalStars = ThisLevelHighscore;
             Debug.Log("Level 11 stars:" + Stars.Level11TotalStars);
+            PlayerPrefs.SetInt("Level11TotalStars", Stars.Level11TotalStars);
         }
         else if(currentSceneName=="Level 12"){
-            Stars.Level12TotalStars = ThisLevelStar;
+            Stars.Level12TotalStars = ThisLevelHighscore;
             Debug.Log("Level 12 stars:" + Stars.Level12TotalStars);
+            PlayerPrefs.SetInt("Level12TotalStars", Stars.Level12TotalStars);
         }
-        else if(currentSceneName=="Level 3"){
-            Stars.Level13TotalStars = ThisLevelStar;
+        else if(currentSceneName=="Level 13"){
+            Stars.Level13TotalStars = ThisLevelHighscore;
             Debug.Log("Level 13 stars:" + Stars.Level13TotalStars);
+            PlayerPrefs.SetInt("Level13TotalStars", Stars.Level13TotalStars);
         }
         else if(currentSceneName=="Level 14"){
-            Stars.Level14TotalStars = ThisLevelStar;
+            Stars.Level14TotalStars = ThisLevelHighscore;
             Debug.Log("Level 14 stars:" + Stars.Level14TotalStars);
+            PlayerPrefs.SetInt("Level14TotalStars", Stars.Level14TotalStars);
         }
         else if(currentSceneName=="Level 15"){
-            Stars.Level15TotalStars = ThisLevelStar;
+            Stars.Level15TotalStars = ThisLevelHighscore;
             Debug.Log("Level 15 stars:" + Stars.Level15TotalStars);
+            PlayerPrefs.SetInt("Level15TotalStars", Stars.Level15TotalStars);
         }
+
+        Stars.Categ1TotalStars = Stars.Level1TotalStars + Stars.Level2TotalStars + Stars.Level3TotalStars + Stars.Level4TotalStars + Stars.Level5TotalStars;
+        //Debug.Log("Total stars Category 1: "+Stars.Categ1TotalStars);
+        PlayerPrefs.SetInt("Category1TotalStars", Stars.Categ1TotalStars);
+        Debug.Log("Saved Category 1 Total Stars in PlayerPrefs: " + PlayerPrefs.GetInt("Category1TotalStars"));
+
+        Stars.Categ2TotalStars = Stars.Level6TotalStars + Stars.Level7TotalStars + Stars.Level8TotalStars + Stars.Level9TotalStars + Stars.Level10TotalStars;
+        //Debug.Log("Total stars Category 2: "+Stars.Categ2TotalStars);
+        PlayerPrefs.SetInt("Category2TotalStars", Stars.Categ2TotalStars);
+        Debug.Log("Saved Category 2 Total Stars in PlayerPrefs: " + PlayerPrefs.GetInt("Category2TotalStars"));
+
+        Stars.Categ3TotalStars = Stars.Level11TotalStars + Stars.Level12TotalStars + Stars.Level13TotalStars + Stars.Level14TotalStars + Stars.Level15TotalStars;
+        //Debug.Log("Total stars Category 3: "+Stars.Categ3TotalStars);
+        PlayerPrefs.SetInt("Category3TotalStars", Stars.Categ3TotalStars);
+        Debug.Log("Saved Category 3 Total Stars in PlayerPrefs: " + PlayerPrefs.GetInt("Category3TotalStars"));
+
+
+        PlayerPrefs.Save();
         
     }
 
