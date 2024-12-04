@@ -60040,6 +60040,11 @@ RectTransform:
   m_CorrespondingSourceObject: {fileID: 8668505698659907333, guid: 9bc0588d384ead54592f8a5c6add645d, type: 3}
   m_PrefabInstance: {fileID: 819245112}
   m_PrefabAsset: {fileID: 0}
+--- !u!1 &819245114 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8668505698659907330, guid: 9bc0588d384ead54592f8a5c6add645d, type: 3}
+  m_PrefabInstance: {fileID: 819245112}
+  m_PrefabAsset: {fileID: 0}
 --- !u!114 &835395757 stripped
 MonoBehaviour:
   m_CorrespondingSourceObject: {fileID: 5372644608820225628, guid: f5131963b51f5e4498eeb85696dcd12e, type: 3}
@@ -63913,6 +63918,10 @@ PrefabInstance:
       propertyPath: star3
       value: 
       objectReference: {fileID: 164860844}
+    - target: {fileID: 2281662629354014976, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
+      propertyPath: NextLvlBtn
+      value: 
+      objectReference: {fileID: 819245114}
     - target: {fileID: 2281662629354014976, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
       propertyPath: finishPoint
       value: 

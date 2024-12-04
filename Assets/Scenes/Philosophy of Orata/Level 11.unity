@@ -1884,6 +1884,10 @@ PrefabInstance:
       value: 
       objectReference: {fileID: 352359302}
     - target: {fileID: 2281662629354014976, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
+      propertyPath: NextLvlBtn
+      value: 
+      objectReference: {fileID: 1285375943}
+    - target: {fileID: 2281662629354014976, guid: 91bb927bf386a8a4e817c30044621fd7, type: 3}
       propertyPath: finishPoint
       value: 
       objectReference: {fileID: 663953562}
@@ -69215,6 +69219,11 @@ PrefabInstance:
 --- !u!224 &1285375942 stripped
 RectTransform:
   m_CorrespondingSourceObject: {fileID: 8668505698659907333, guid: 9bc0588d384ead54592f8a5c6add645d, type: 3}
+  m_PrefabInstance: {fileID: 1285375941}
+  m_PrefabAsset: {fileID: 0}
+--- !u!1 &1285375943 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 8668505698659907330, guid: 9bc0588d384ead54592f8a5c6add645d, type: 3}
   m_PrefabInstance: {fileID: 1285375941}
   m_PrefabAsset: {fileID: 0}
 --- !u!1 &1291924259

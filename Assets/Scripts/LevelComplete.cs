@@ -21,6 +21,7 @@ public class LevelComplete : MonoBehaviour
 
     public GameObject LvlCmpltPanel;
     public GameObject UI;
+    public GameObject NextLvlBtn;
 
     public GameObject star1;
     public GameObject star2;
@@ -33,6 +34,8 @@ public class LevelComplete : MonoBehaviour
     {
         isLevelComplete=false;
         currentSceneName = SceneManager.GetActiveScene().name;
+
+        
     }
 
     
@@ -49,7 +52,7 @@ public class LevelComplete : MonoBehaviour
             LvlCompletedSoundEffect.Play();
 
             CalculateStars();
-            finishPoint.unlockNextLVL();
+            
 
         }
     }
@@ -80,18 +83,44 @@ public class LevelComplete : MonoBehaviour
             star1.SetActive(true);
             ThisLevelStar = 3;
             Debug.Log("This Level star: "+ThisLevelStar);
+            finishPoint.unlockNextLVL();
         }
         else if(timeFinished<minTimeFor3Stars && timeFinished >= minTimeFor2Stars){
             star2.SetActive(true);
             star1.SetActive(true);
              ThisLevelStar = 2;
             Debug.Log("This Level star: "+ThisLevelStar);
+
+
+            Button buttonNext = NextLvlBtn.GetComponent<Button>();
+            if (buttonNext != null)
+        {
+            buttonNext.interactable = false;
+        }
+        else
+        {
+            Debug.LogError("No Button component found on the NextBtn GameObject.");
+        }
+
+           
         }
         else if(timeFinished<minTimeFor2Stars && timeFinished >= minTimeFor1Star){
             
             star1.SetActive(true);
              ThisLevelStar = 1;
             Debug.Log("This Level star: "+ThisLevelStar);
+
+            Button buttonNext = NextLvlBtn.GetComponent<Button>();
+            if (buttonNext != null)
+        {
+            buttonNext.interactable = false;
+        }
+        else
+        {
+            Debug.LogError("No Button component found on the NextBtn GameObject.");
+        }
+
+            
         }
 
 
