@@ -75,10 +75,14 @@ void Update()
         string nextLevelName = "Level "+ nextLevelInt;
         //
         if(nextLevelInt>PlayerPrefs.GetInt("UnlockedLevel")){
+            int is3stars = PlayerPrefs.GetInt($"Level{currentSceneInt}TotalStars");
+            if(is3stars==3){
             PlayerPrefs.SetInt("UnlockedLevel", nextLevelInt);
             Debug.Log("Lvl UNLOCKED: " + PlayerPrefs.GetInt("UnlockedLevel"));
             PlayerPrefs.Save();
-
+            }else{
+                Debug.Log("Must have 3 stars! ");
+            }
         }
             
        
