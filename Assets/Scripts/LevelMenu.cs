@@ -35,10 +35,10 @@ public class LevelMenu : MonoBehaviour
 
         //Debug.Log("Level 15 is complete: "+level15IsComplete);
 
-       if(level15IsComplete==true)
-       {
-        assessmentBTN.SetActive(true);
-       }
+    //    if(level15IsComplete==true)
+    //    {
+    //     assessmentBTN.SetActive(true);
+    //    }
 
     }
 

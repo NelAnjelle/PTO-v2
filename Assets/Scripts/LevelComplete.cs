@@ -83,7 +83,10 @@ public class LevelComplete : MonoBehaviour
             star1.SetActive(true);
             ThisLevelStar = 3;
             Debug.Log("This Level star: "+ThisLevelStar);
-            finishPoint.unlockNextLVL();
+           
+                finishPoint.unlockNextLVL();
+            
+            
         }
         else if(timeFinished<minTimeFor3Stars && timeFinished >= minTimeFor2Stars){
             star2.SetActive(true);

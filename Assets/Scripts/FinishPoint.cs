@@ -44,7 +44,7 @@ void Update()
         {
             Debug.Log("Level Complete");
             
-            NextLevel();
+           // NextLevel();
            
             
 
