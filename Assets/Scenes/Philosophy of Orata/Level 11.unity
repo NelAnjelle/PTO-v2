@@ -2594,6 +2594,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (5)
       objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
       value: 0.94216794
@@ -2625,7 +2629,7 @@ GameObject:
   - component: {fileID: 453382020}
   m_Layer: 0
   m_Name: Torch_1 (1)
-  m_TagString: Torch
+  m_TagString: HiddenTorch
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -68347,6 +68351,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.9342623
@@ -69384,6 +69392,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -73903,6 +73915,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius

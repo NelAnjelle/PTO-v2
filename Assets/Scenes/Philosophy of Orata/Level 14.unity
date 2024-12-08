@@ -2993,6 +2993,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.90004015
@@ -3729,7 +3733,7 @@ GameObject:
   - component: {fileID: 737294957}
   m_Layer: 0
   m_Name: Torch_1
-  m_TagString: Torch
+  m_TagString: HiddenTorch
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -5205,6 +5209,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.88002634
@@ -5829,6 +5837,10 @@ PrefabInstance:
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime
+      objectReference: {fileID: 0}
+    - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_TagString
+      value: HiddenminusTimer
       objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482981, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_RootOrder
@@ -48483,6 +48495,10 @@ PrefabInstance:
     - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_Name
       value: minusTime (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_TagString
+      value: HiddenminusTimer
       objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482981, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_RootOrder
@@ -95612,7 +95628,7 @@ GameObject:
   - component: {fileID: 1770455779}
   m_Layer: 0
   m_Name: Torch_1 (1)
-  m_TagString: Torch
+  m_TagString: HiddenTorch
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -107705,6 +107721,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius

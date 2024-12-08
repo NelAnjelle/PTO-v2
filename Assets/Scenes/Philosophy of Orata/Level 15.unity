@@ -250,6 +250,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
       value: 0.8581877
@@ -733,6 +737,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (3)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -22626,6 +22634,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (4)
       objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
       value: 0.84060395
@@ -23029,6 +23041,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -84752,6 +84768,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
       value: 1.0644417
@@ -86078,6 +86098,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Shoe
       objectReference: {fileID: 0}
+    - target: {fileID: 4143823248237440384, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
+      propertyPath: m_TagString
+      value: HiddenShoe
+      objectReference: {fileID: 0}
     - target: {fileID: 5189647357085617720, guid: 24d95ff768646c74da2c3ad229280407, type: 3}
       propertyPath: m_Size.x
       value: 2.5339699
@@ -86284,6 +86308,10 @@ PrefabInstance:
     - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Name
       value: addTime (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
       objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
@@ -88612,6 +88640,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.9544573
@@ -89146,6 +89178,10 @@ PrefabInstance:
     - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Name
       value: addTime
+      objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
       objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
