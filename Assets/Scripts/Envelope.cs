@@ -6,6 +6,9 @@ using TMPro;
 
 public class Envelope : MonoBehaviour
 {
+[SerializeField] private AudioSource TriviaSounds;
+private bool SoundhasPlayed = false;
+
 public bool playerInEnvelopeRange;
  bool isRead;
 
@@ -18,7 +21,10 @@ public bool playerInEnvelopeRange;
     // Start is called before the first frame update
     void Start()
     {
-        
+        if (TriviaSounds == null)
+        {
+            Debug.LogError("No AudioSource found on this GameObject!");
+        }
     }
 
     // Update is called once per frame
@@ -65,6 +71,13 @@ public bool playerInEnvelopeRange;
                      Time.timeScale = 0f;
                      isRead = true;
                      Trivia.text = trivia;
+
+
+                     if (TriviaSounds != null)
+                     {
+                        TriviaSounds.Play(); // Play the sound
+                        SoundhasPlayed = true;  // Prevent it from playing again
+                    }
                     
                  }
         }

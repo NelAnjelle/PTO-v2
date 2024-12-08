@@ -9,7 +9,7 @@ public class ImprtntNPC : MonoBehaviour
 
     [SerializeField]
 private AudioSource NumerianaTTS; // Reference to the AudioSource
-    private bool hasPlayed = false;
+    private bool SoundhasPlayed = false;
 
     public bool playerInImpNPCRange;
     bool isTalked;
@@ -85,7 +85,7 @@ private AudioSource NumerianaTTS; // Reference to the AudioSource
                      if (NumerianaTTS != null)
                      {
                         NumerianaTTS.Play(); // Play the sound
-                        hasPlayed = true;  // Prevent it from playing again
+                        SoundhasPlayed = true;  // Prevent it from playing again
                     }
 
                    
