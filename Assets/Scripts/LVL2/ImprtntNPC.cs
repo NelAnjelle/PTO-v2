@@ -7,7 +7,9 @@ using TMPro;
 public class ImprtntNPC : MonoBehaviour
 {
 
-   
+    [SerializeField]
+private AudioSource NumerianaTTS; // Reference to the AudioSource
+    private bool hasPlayed = false;
 
     public bool playerInImpNPCRange;
     bool isTalked;
@@ -24,6 +26,10 @@ public class ImprtntNPC : MonoBehaviour
     {
         
         isTalked=false;
+        if (NumerianaTTS == null)
+        {
+            Debug.LogError("No AudioSource found on this GameObject!");
+        }
         
         
     }
@@ -74,6 +80,13 @@ public class ImprtntNPC : MonoBehaviour
                 
                      Convo.text = convoText;
                      Indictr.SetActive(true);
+
+
+                     if (NumerianaTTS != null)
+                     {
+                        NumerianaTTS.Play(); // Play the sound
+                        hasPlayed = true;  // Prevent it from playing again
+                    }
 
                    
                     
