@@ -85,8 +85,101 @@ public class Itm_Cllctr2 : MonoBehaviour
             collectSoundEffect.Play();
             
         }
+        else if(collision.CompareTag("HiddenBomb"))
+        {
+            
+            bombSoundEffect.Play();
+            StartCoroutine(HandleHiddenBomb2());
+            // gameOverText.text = "Game Over!";
+            // countdownScript.GameOver();
+            
+
+        }
+        else if(collision.CompareTag("HiddenminusTimer"))
+        {
+            collectSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
+            StartCoroutine(HandleMinusTime2());
+           
+            
+
+        }
+        else if(collision.CompareTag("HiddenplusTimer"))
+        {
+            collectSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
+            StartCoroutine(HandlePlusTime2());
+            
+            
+
+        }
+        else if(collision.CompareTag("HiddenShoe"))
+        {
+            collectSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
+            StartCoroutine(HandleHiddenShoe2());
+            
+            
+        }
+        else if(collision.CompareTag("HiddenTorch"))
+        {
+           
+            collectSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
+            //Destroy(collision.gameObject);
+            Circle.transform.localScale = new Vector3(
+                Circle.transform.localScale.x + scaleToAdd.x,
+                Circle.transform.localScale.y + scaleToAdd.y,
+                Circle.transform.localScale.z
+            );
+            
+        }
+        else if(collision.CompareTag("HiddenZoom"))
+        {
+            collectSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
+
+            
+        }
+
+
+        
        
     }
+
+
+private IEnumerator DelayedDestroy(GameObject obj, float delay)
+{
+    yield return new WaitForSeconds(delay);
+    Destroy(obj);
+}
+
+
+    private IEnumerator HandleHiddenBomb2()
+{
+    yield return new WaitForSeconds(1f); // Delay for 2 seconds
+    gameOverText.text = "Game Over!";
+    countdownScript.GameOver();
+}
+private IEnumerator HandleMinusTime2()
+{
+    yield return new WaitForSeconds(1f); 
+    Countdown.MinusTime -= 10;
+    
+}
+
+private IEnumerator HandlePlusTime2()
+{
+    yield return new WaitForSeconds(1f); 
+    Countdown.AddedTime += 10;
+    
+}
+
+private IEnumerator HandleHiddenShoe2()
+{
+    yield return new WaitForSeconds(1f); 
+    
+}
 
     
 }

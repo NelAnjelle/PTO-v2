@@ -26858,7 +26858,7 @@ GameObject:
   - component: {fileID: 556608690}
   m_Layer: 0
   m_Name: Torch_1 (1)
-  m_TagString: Torch
+  m_TagString: HiddenTorch
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -27056,6 +27056,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (4)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -27987,6 +27991,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (2)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -70946,6 +70954,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: addTime (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius
       value: 0.93023586
@@ -72644,6 +72656,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.8542175
@@ -73927,6 +73943,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zoom
       objectReference: {fileID: 0}
+    - target: {fileID: 7863451437694698691, guid: a3afc7dc932e12142838474643f825ca, type: 3}
+      propertyPath: m_TagString
+      value: HiddenZoom
+      objectReference: {fileID: 0}
     - target: {fileID: 7863451437694698695, guid: a3afc7dc932e12142838474643f825ca, type: 3}
       propertyPath: m_Size.x
       value: 2.6824074
@@ -74013,6 +74033,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb (1)
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
@@ -75009,6 +75033,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (3)
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.8236189
@@ -75087,6 +75115,10 @@ PrefabInstance:
     - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Name
       value: addTime
+      objectReference: {fileID: 0}
+    - target: {fileID: 183784274198582377, guid: 85b305b07876d75408da4824885ab71b, type: 3}
+      propertyPath: m_TagString
+      value: HiddenplusTimer
       objectReference: {fileID: 0}
     - target: {fileID: 1320569633839792632, guid: 85b305b07876d75408da4824885ab71b, type: 3}
       propertyPath: m_Radius

@@ -16,6 +16,12 @@ TagManager:
   - enemy
   - breakable
   - Zoom
+  - HiddenBomb
+  - HiddenminusTimer
+  - HiddenShoe
+  - HiddenplusTimer
+  - HiddenTorch
+  - HiddenZoom
   layers:
   - Default
   - TransparentFX

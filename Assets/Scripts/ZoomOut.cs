@@ -45,6 +45,6 @@ public class ZoomOut : MonoBehaviour
 
         
         Camera.main.orthographicSize = targetOrthographicSize;
-        Destroy(gameObject);
+        //Destroy(gameObject);
     }
 }

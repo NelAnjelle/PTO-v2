@@ -56,6 +56,11 @@ public class Plyr_Movement : MonoBehaviour
             speed+=0.7f;
             
         }
+        if(collisionss.CompareTag("HiddenShoe"))
+        {
+            speed+=0.7f;
+            
+        }
     }
 
     

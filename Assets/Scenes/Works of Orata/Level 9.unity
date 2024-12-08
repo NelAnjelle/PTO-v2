@@ -2824,6 +2824,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Bomb (1)
       objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
+      objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
       value: 0.85075665
@@ -3052,6 +3056,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: Zoom
       objectReference: {fileID: 0}
+    - target: {fileID: 7863451437694698691, guid: a3afc7dc932e12142838474643f825ca, type: 3}
+      propertyPath: m_TagString
+      value: HiddenZoom
+      objectReference: {fileID: 0}
     - target: {fileID: 7863451437694698695, guid: a3afc7dc932e12142838474643f825ca, type: 3}
       propertyPath: m_Size.x
       value: 1.7727776
@@ -3236,7 +3244,7 @@ GameObject:
   - component: {fileID: 476212863}
   m_Layer: 0
   m_Name: Torch_1
-  m_TagString: Torch
+  m_TagString: HiddenTorch
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -144288,6 +144296,10 @@ PrefabInstance:
       propertyPath: m_Name
       value: minusTime
       objectReference: {fileID: 0}
+    - target: {fileID: 3205901021672482980, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
+      propertyPath: m_TagString
+      value: HiddenminusTimer
+      objectReference: {fileID: 0}
     - target: {fileID: 3205901021672482981, guid: 959f989e472921941a7d00f3e36d7b76, type: 3}
       propertyPath: m_RootOrder
       value: 5
@@ -144402,6 +144414,10 @@ PrefabInstance:
     - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Name
       value: Bomb
+      objectReference: {fileID: 0}
+    - target: {fileID: 1470142913042923552, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
+      propertyPath: m_TagString
+      value: HiddenBomb
       objectReference: {fileID: 0}
     - target: {fileID: 4199675589440781813, guid: 00123fbe0d2d8ff45bb90dfe7f24e15f, type: 3}
       propertyPath: m_Radius
