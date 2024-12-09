@@ -1,0 +1,910 @@
+fileFormatVersion: 2
+guid: daf0f4a22bd406f45a0d16bcb4c91778
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1879583834734267782
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_0
+  - first:
+      213: -8545616483327844824
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_1
+  - first:
+      213: -4728978918004002003
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_2
+  - first:
+      213: -5899590541649778805
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_3
+  - first:
+      213: -9144070675635928134
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_4
+  - first:
+      213: -7438161416524146042
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_5
+  - first:
+      213: 6265560572740932214
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_6
+  - first:
+      213: -6681779581940021257
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_7
+  - first:
+      213: -8975391290522164250
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_8
+  - first:
+      213: 4583720699131556983
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_9
+  - first:
+      213: 7234692729261768607
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_10
+  - first:
+      213: -5459756869604200774
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_11
+  - first:
+      213: -356079361569626166
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_12
+  - first:
+      213: 2025526525146964823
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_13
+  - first:
+      213: 740528976371087478
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_14
+  - first:
+      213: 5258198318802382551
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_15
+  - first:
+      213: 7307867680794698676
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_16
+  - first:
+      213: -5429371613789785363
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_17
+  - first:
+      213: -567351047834385554
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_18
+  - first:
+      213: -8163766906868316433
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_19
+  - first:
+      213: 3124698757778130903
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_20
+  - first:
+      213: 733906166139057895
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_21
+  - first:
+      213: 5954172637712626247
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_22
+  - first:
+      213: -9143215943918753010
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_23
+  - first:
+      213: 1001843937291127417
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_24
+  - first:
+      213: -5925439941268489862
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_25
+  - first:
+      213: 9036400965165212265
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_26
+  - first:
+      213: 5282811486243306364
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_27
+  - first:
+      213: 4977809809707063394
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_28
+  - first:
+      213: 2087561948762590740
+    second: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 33
+        width: 66
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d07ea0a8f951a10800000000000000
+      internalID: 1879583834734267782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_1
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 149
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e5584c51fd76980800000000000000
+      internalID: -8545616483327844824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_2
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 147
+        width: 32
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d237f02baba4f5eb0800000000000000
+      internalID: -4728978918004002003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_3
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 149
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87e5b4e8a1702ea0800000000000000
+      internalID: -5899590541649778805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_4
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 145
+        width: 64
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab387a9fa2cb91180800000000000000
+      internalID: -9144070675635928134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 143
+        width: 94
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68adf0ac99756c890800000000000000
+      internalID: -7438161416524146042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_6
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 101
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6729ae0052eb3f650800000000000000
+      internalID: 6265560572740932214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 99
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f7c10f2fdc8543a0800000000000000
+      internalID: -6681779581940021257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 101
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3aa48cc21017380800000000000000
+      internalID: -8975391290522164250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_9
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 99
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7747755b0b5ac9f30800000000000000
+      internalID: 4583720699131556983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_10
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 97
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fbfbac4bac66460800000000000000
+      internalID: 7234692729261768607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_11
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 97
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abe2e3bdd0c0b34b0800000000000000
+      internalID: -5459756869604200774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_12
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 97
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac76bcd05b3fe0bf0800000000000000
+      internalID: -356079361569626166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_13
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 97
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753248694ad1c1c10800000000000000
+      internalID: 2025526525146964823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_14
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 53
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6787b763e23e64a00800000000000000
+      internalID: 740528976371087478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_15
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 51
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dea5c6038fd8f840800000000000000
+      internalID: 5258198318802382551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_16
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 53
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3635bdfe2ca6560800000000000000
+      internalID: 7307867680794698676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 51
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de27876884ff6a4b0800000000000000
+      internalID: -5429371613789785363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 49
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e63c2ea5a3d5028f0800000000000000
+      internalID: -567351047834385554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_19
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 49
+        width: 32
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe6460f604974be80800000000000000
+      internalID: -8163766906868316433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_20
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 49
+        width: 32
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7487ff6f82d5b20800000000000000
+      internalID: 3124698757778130903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_21
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 48
+        width: 31
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e6ff2b05cb5f2a00800000000000000
+      internalID: 733906166139057895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_22
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 742363aa77871a250800000000000000
+      internalID: 5954172637712626247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_23
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 5
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0be806ba85cc1180800000000000000
+      internalID: -9143215943918753010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_24
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 7
+        width: 30
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97acd92c0c347ed00800000000000000
+      internalID: 1001843937291127417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_25
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79b7ca84cb94cda0800000000000000
+      internalID: -5925439941268489862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_26
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9626ba80dceb76d70800000000000000
+      internalID: 9036400965165212265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_27
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb2e4ae01505940800000000000000
+      internalID: 5282811486243306364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_28
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 1
+        width: 30
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2685b0bf5abb41540800000000000000
+      internalID: 4977809809707063394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: swimmer_female_dpp__gen_3__by_teraneck_de5yeks_29
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 0
+        width: 30
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ecd92388288fc10800000000000000
+      internalID: 2087561948762590740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_0: 1879583834734267782
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_1: -8545616483327844824
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_10: 7234692729261768607
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_11: -5459756869604200774
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_12: -356079361569626166
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_13: 2025526525146964823
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_14: 740528976371087478
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_15: 5258198318802382551
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_16: 7307867680794698676
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_17: -5429371613789785363
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_18: -567351047834385554
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_19: -8163766906868316433
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_2: -4728978918004002003
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_20: 3124698757778130903
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_21: 733906166139057895
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_22: 5954172637712626247
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_23: -9143215943918753010
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_24: 1001843937291127417
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_25: -5925439941268489862
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_26: 9036400965165212265
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_27: 5282811486243306364
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_28: 4977809809707063394
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_29: 2087561948762590740
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_3: -5899590541649778805
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_4: -9144070675635928134
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_5: -7438161416524146042
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_6: 6265560572740932214
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_7: -6681779581940021257
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_8: -8975391290522164250
+      swimmer_female_dpp__gen_3__by_teraneck_de5yeks_9: 4583720699131556983
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

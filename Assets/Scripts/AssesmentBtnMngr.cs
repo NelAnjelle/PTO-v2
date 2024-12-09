@@ -25,7 +25,8 @@ public class AssesmentBtnMngr : MonoBehaviour
         if (Lifebutton != null)
         {
             if(categ1<11){
-                Lifebutton.interactable = false;
+                //Lifebutton.interactable = false;
+                LifeBTN.SetActive(false);
             }
             
         }
@@ -37,7 +38,8 @@ public class AssesmentBtnMngr : MonoBehaviour
         if (Achievementsbutton != null)
         {
             if(categ2<11){
-                Achievementsbutton.interactable = false;
+                //Achievementsbutton.interactable = false;
+                AchievementsBTN.SetActive(false);
             }
             
         }
@@ -49,7 +51,8 @@ public class AssesmentBtnMngr : MonoBehaviour
         if (Philosophybutton != null)
         {
             if(categ3<11){
-                Philosophybutton.interactable = false;
+                //Philosophybutton.interactable = false;
+                PhilosophyBTN.SetActive(false);
             }
             
         }

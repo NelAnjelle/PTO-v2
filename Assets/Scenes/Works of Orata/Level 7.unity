@@ -51735,7 +51735,7 @@ MonoBehaviour:
   ClockSEHolder: {fileID: 1035527676}
   gameOverMenu: {fileID: 1232530381}
   UI: {fileID: 1085723891}
-  TimerSecs: 150
+  TimerSecs: 240
   textMins: {fileID: 1747203140}
   textColon: {fileID: 1793950406}
   textSecs: {fileID: 421348805}

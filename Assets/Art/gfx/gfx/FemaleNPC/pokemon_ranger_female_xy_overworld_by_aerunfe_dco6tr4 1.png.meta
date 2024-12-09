@@ -1,0 +1,546 @@
+fileFormatVersion: 2
+guid: 9e4861a0571f0a14ab19a16cc25b7a49
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8315019364417892803
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_0
+  - first:
+      213: 8813446240825874339
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_1
+  - first:
+      213: -7260529585330818356
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_2
+  - first:
+      213: 1637121242709540767
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_3
+  - first:
+      213: 3695736150665050237
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_4
+  - first:
+      213: -6287611638837418367
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_5
+  - first:
+      213: -1667894799949808168
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_6
+  - first:
+      213: 4038601058056284984
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_7
+  - first:
+      213: -9040732329310264185
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_8
+  - first:
+      213: -4768116382545535591
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_9
+  - first:
+      213: -601025189043689452
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_10
+  - first:
+      213: 1957480024568479252
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_11
+  - first:
+      213: -4180776159141661584
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_12
+  - first:
+      213: -5106344913359011294
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_13
+  - first:
+      213: -5277615479124329831
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_14
+  - first:
+      213: 8168368909945020945
+    second: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 40
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_0
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 199
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e806361fd1b9c80800000000000000
+      internalID: -8315019364417892803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_1
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 197
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a79d6f09a6af4a70800000000000000
+      internalID: 8813446240825874339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_2
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 197
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc274216fca6d3b90800000000000000
+      internalID: -7260529585330818356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_3
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9fb2fda81938b610800000000000000
+      internalID: 1637121242709540767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_4
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 133
+        width: 39
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78b5fbb274e94330800000000000000
+      internalID: 3695736150665050237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_5
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 133
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186eb75178aedb8a0800000000000000
+      internalID: -6287611638837418367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_6
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 133
+        width: 38
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dd354e24827ad8e0800000000000000
+      internalID: -1667894799949808168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_7
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 133
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b26fec34efb0830800000000000000
+      internalID: 4038601058056284984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 69
+        width: 37
+        height: 51
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 784621aa8ddd88280800000000000000
+      internalID: -9040732329310264185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_9
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 69
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d17a2a96f34ddb0800000000000000
+      internalID: -4768116382545535591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_10
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 69
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4182df166cab8a7f0800000000000000
+      internalID: -601025189043689452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_11
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 69
+        width: 36
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41eb35f06bd5a2b10800000000000000
+      internalID: 1957480024568479252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 4
+        width: 46
+        height: 55
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07470f4eb36eaf5c0800000000000000
+      internalID: -4180776159141661584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_13
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 5
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2220d9a1b5e9229b0800000000000000
+      internalID: -5106344913359011294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_14
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 7
+        width: 40
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99af0b90fa422c6b0800000000000000
+      internalID: -5277615479124329831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_15
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 5
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1122e97ee30eb5170800000000000000
+      internalID: 8168368909945020945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: bce1945f71c30344ca48f59fa50822eb
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_0: -8315019364417892803
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_1: 8813446240825874339
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_10: -601025189043689452
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_11: 1957480024568479252
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_12: -4180776159141661584
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_13: -5106344913359011294
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_14: -5277615479124329831
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_15: 8168368909945020945
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_2: -7260529585330818356
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_3: 1637121242709540767
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_4: 3695736150665050237
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_5: -6287611638837418367
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_6: -1667894799949808168
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_7: 4038601058056284984
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_8: -9040732329310264185
+      pokemon_ranger_female_xy_overworld_by_aerunfe_dco6tr4_9: -4768116382545535591
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

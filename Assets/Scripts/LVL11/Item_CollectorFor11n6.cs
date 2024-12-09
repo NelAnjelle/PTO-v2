@@ -88,6 +88,7 @@ public class Item_CollectorFor11n6 : MonoBehaviour
         {
             
             bombSoundEffect.Play();
+            StartCoroutine(DelayedDestroy(collision.gameObject, 1f));
             StartCoroutine(HandleHiddenBomb2());
             // gameOverText.text = "Game Over!";
             // countdownScript.GameOver();

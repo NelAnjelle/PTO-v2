@@ -72036,7 +72036,7 @@ MonoBehaviour:
   gameOverMenu: {fileID: 712248885}
   UI: {fileID: 1749023890}
   Reminder: {fileID: 2082153291}
-  TimerSecs: 210
+  TimerSecs: 240
   textMins: {fileID: 1422504907}
   textColon: {fileID: 1562106601}
   textSecs: {fileID: 1057376447}

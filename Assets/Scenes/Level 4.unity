@@ -57448,7 +57448,7 @@ MonoBehaviour:
   gameOverMenu: {fileID: 508475489}
   UI: {fileID: 1065064637}
   Reminder: {fileID: 180528382}
-  TimerSecs: 150
+  TimerSecs: 180
   textMins: {fileID: 1930923400}
   textColon: {fileID: 1168596174}
   textSecs: {fileID: 1262774221}
@@ -75300,9 +75300,13 @@ PrefabInstance:
       value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 5241841253502849345, guid: 0be11d535b0c06049a730fd003b50c17, type: 3}
+      propertyPath: m_Volume
+      value: 0.05
+      objectReference: {fileID: 0}
+    - target: {fileID: 5241841253502849345, guid: 0be11d535b0c06049a730fd003b50c17, type: 3}
       propertyPath: m_audioClip
       value: 
-      objectReference: {fileID: 8300000, guid: 1532c7e67c2d60c4c8780da14b7e8fcf, type: 3}
+      objectReference: {fileID: 8300000, guid: 475f4837af487ce4a9e68bb227455e4c, type: 3}
     - target: {fileID: 5241841253502849358, guid: 0be11d535b0c06049a730fd003b50c17, type: 3}
       propertyPath: m_Name
       value: BG Music

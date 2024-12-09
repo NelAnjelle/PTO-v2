@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: f27bbf96c716e074886a74e22afae44e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6992219073338930452
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_0
+  - first:
+      213: -2603546246648463607
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_1
+  - first:
+      213: -106069759365824690
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_2
+  - first:
+      213: -7157975134255167999
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_3
+  - first:
+      213: 3586170983365047218
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_4
+  - first:
+      213: -4942034926551960417
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_5
+  - first:
+      213: -9145153952524608806
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_6
+  - first:
+      213: -8284000201935163219
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_7
+  - first:
+      213: 5623530714204191011
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_8
+  - first:
+      213: -4952202148405824968
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_9
+  - first:
+      213: -6600714232276445778
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_10
+  - first:
+      213: -1839838491359374392
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_11
+  - first:
+      213: -5569832654404044629
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_12
+  - first:
+      213: -8349909192705820034
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_13
+  - first:
+      213: 7000969496152637712
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_14
+  - first:
+      213: 245993151555803143
+    second: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 145
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 415f31a633a590160800000000000000
+      internalID: 6992219073338930452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_1
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 143
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90f773c9b785edbd0800000000000000
+      internalID: -2603546246648463607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_2
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 145
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4fb697ad1a278ef0800000000000000
+      internalID: -106069759365824690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_3
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 143
+        width: 29
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10644ab3a83c9ac90800000000000000
+      internalID: -7157975134255167999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 97
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3794f4283a4c130800000000000000
+      internalID: 3586170983365047218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_5
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 97
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f94fb471b6d5a6bb0800000000000000
+      internalID: -4942034926551960417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_6
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 97
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adad28beee2e51180800000000000000
+      internalID: -9145153952524608806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_7
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 97
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da0f364f4b1590d80800000000000000
+      internalID: -8284000201935163219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 49
+        width: 33
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329b3abc36bca0e40800000000000000
+      internalID: 5623530714204191011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_9
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 49
+        width: 34
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8323858426e364bb0800000000000000
+      internalID: -4952202148405824968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_10
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 49
+        width: 34
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea51c49b06d8564a0800000000000000
+      internalID: -6600714232276445778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_11
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 49
+        width: 33
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c31f66d3a49776e0800000000000000
+      internalID: -1839838491359374392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba830e706baf3b2b0800000000000000
+      internalID: -5569832654404044629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_13
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 0
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a300634d92f1c80800000000000000
+      internalID: -8349909192705820034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_14
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1
+        width: 30
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011068df9a0782160800000000000000
+      internalID: 7000969496152637712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: hilda_gba_sprite_by_0rdinarystrawberry_dc9ex2m_15
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 0
+        width: 29
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70899afc771f96300800000000000000
+      internalID: 245993151555803143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable: {}
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

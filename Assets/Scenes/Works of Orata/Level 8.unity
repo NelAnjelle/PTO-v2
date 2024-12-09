@@ -66253,7 +66253,7 @@ MonoBehaviour:
   gameOverMenu: {fileID: 1194758735}
   UI: {fileID: 1359071788}
   Reminder: {fileID: 643518846}
-  TimerSecs: 200
+  TimerSecs: 240
   textMins: {fileID: 269876080}
   textColon: {fileID: 176587299}
   textSecs: {fileID: 1606799464}

@@ -1,0 +1,780 @@
+fileFormatVersion: 2
+guid: e2062f87b2902a346b1fa37b9c6b204e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3090642696632720464
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_0
+  - first:
+      213: 8098628875259010502
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_1
+  - first:
+      213: 5738597725942912762
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_2
+  - first:
+      213: 5531804534962216298
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_3
+  - first:
+      213: -6158710504637907495
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_4
+  - first:
+      213: -4335715488261488707
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_5
+  - first:
+      213: -3252631068584209010
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_6
+  - first:
+      213: 5267121087229389239
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_7
+  - first:
+      213: 4636241073355381809
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_8
+  - first:
+      213: -2695267135731502808
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_9
+  - first:
+      213: 2656362075804496277
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_10
+  - first:
+      213: 8518355058666531630
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_11
+  - first:
+      213: 8222116967624458358
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_12
+  - first:
+      213: 7634802729626653455
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_13
+  - first:
+      213: 336657707016414975
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_14
+  - first:
+      213: -5178266793805581202
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_15
+  - first:
+      213: 5360578809849759058
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_16
+  - first:
+      213: -3064480361019322781
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_17
+  - first:
+      213: 7147134225348779925
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_18
+  - first:
+      213: 919253101651991092
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_19
+  - first:
+      213: 2718993529532954740
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_20
+  - first:
+      213: 8804927875727932478
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_21
+  - first:
+      213: 8765225385246486110
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_22
+  - first:
+      213: -7000179577356658183
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_23
+  - first:
+      213: -3324901555736084424
+    second: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_24
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_0
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 144
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b32d83a7d4db15d0800000000000000
+      internalID: -3090642696632720464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_1
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 145
+        width: 50
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cdd88dbd0c146070800000000000000
+      internalID: 8098628875259010502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_2
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 144
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af611b33a3893af40800000000000000
+      internalID: 5738597725942912762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_3
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 144
+        width: 18
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d51517aeae4cc40800000000000000
+      internalID: 5531804534962216298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_4
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 144
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dd37902d6dd78aa0800000000000000
+      internalID: -6158710504637907495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_5
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 112
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbfb30b2cb174d3c0800000000000000
+      internalID: -4335715488261488707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 112
+        width: 50
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8593abb6455cd2d0800000000000000
+      internalID: -3252631068584209010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_7
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 112
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b9e641f8b2981940800000000000000
+      internalID: 5267121087229389239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_8
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 112
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13c5c6e31bc375040800000000000000
+      internalID: 4636241073355381809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 112
+        width: 18
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82170f7f1dc789ad0800000000000000
+      internalID: -2695267135731502808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_10
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 81
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5917523eb3b4dd420800000000000000
+      internalID: 2656362075804496277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_11
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 81
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2b687e2bc6473670800000000000000
+      internalID: 8518355058666531630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_12
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 81
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 670c7f4c1d3da1270800000000000000
+      internalID: 8222116967624458358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_13
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 82
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f035495b1a444f960800000000000000
+      internalID: 7634802729626653455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_14
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 82
+        width: 17
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff66c9d966c0ca400800000000000000
+      internalID: 336657707016414975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_15
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 82
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64740369c91328b0800000000000000
+      internalID: -5178266793805581202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_16
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 80
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255c497a60a946a40800000000000000
+      internalID: 5360578809849759058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_17
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 80
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e48441957c875d0800000000000000
+      internalID: -3064480361019322781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_18
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 80
+        width: 22
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59f53f7f5b8bf2360800000000000000
+      internalID: 7147134225348779925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_19
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 9
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a94a653d7d1cc00800000000000000
+      internalID: 919253101651991092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_20
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 9
+        width: 58
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 478b562953ecbb520800000000000000
+      internalID: 2718993529532954740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_21
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 9
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cb2b1a043613a70800000000000000
+      internalID: 8804927875727932478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_22
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 9
+        width: 77
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5e6ad73c0654a970800000000000000
+      internalID: 8765225385246486110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_23
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 9
+        width: 60
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f956bf43cd5ade90800000000000000
+      internalID: -7000179577356658183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_24
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 9
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8300531b6a39bd1d0800000000000000
+      internalID: -3324901555736084424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_0: -3090642696632720464
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_1: 8098628875259010502
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_10: 2656362075804496277
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_11: 8518355058666531630
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_12: 8222116967624458358
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_13: 7634802729626653455
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_14: 336657707016414975
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_15: -5178266793805581202
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_16: 5360578809849759058
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_17: -3064480361019322781
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_18: 7147134225348779925
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_19: 919253101651991092
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_2: 5738597725942912762
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_20: 2718993529532954740
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_21: 8804927875727932478
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_22: 8765225385246486110
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_23: -7000179577356658183
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_24: -3324901555736084424
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_3: 5531804534962216298
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_4: -6158710504637907495
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_5: -4335715488261488707
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_6: -3252631068584209010
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_7: 5267121087229389239
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_8: 4636241073355381809
+      pokemon_trainer_jasmine_sprite_sheet_by_robloxmaster376_deg0e9t_9: -2695267135731502808
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
