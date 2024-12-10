@@ -327,7 +327,7 @@ PrefabInstance:
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
       value: "On weekends, Orata would accept odd jobs\u2014 <color=white><b>washing
-        windows, mowing lawns, and cleaning homes. </b></color>"
+        windows, mowing lawns, and cleaning homes.</b></color>"
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
@@ -4894,8 +4894,8 @@ PrefabInstance:
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
       value: Orata worked grueling hours <color=white><b>fixing railways </b></color>
-        in Montana. He saved enough <color=white><b>to enroll at the University of
-        Illinois in September 1920 </b></color>.
+        in Montana USA. He saved enough <color=white><b>to enroll at the University
+        of Illinois in September 1920 </b></color>.
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
