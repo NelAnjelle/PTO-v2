@@ -326,8 +326,8 @@ PrefabInstance:
       objectReference: {fileID: 1084709264}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: trivia
-      value: "On weekends, Orata would accept odd jobs\u2014 <color=white><b>washing
-        windows, mowing lawns, and cleaning homes.</b></color>"
+      value: On weekends, Orata would accept odd jobs,<color=white><b>washing windows,
+        mowing lawns, and cleaning homes.</b></color>
       objectReference: {fileID: 0}
     - target: {fileID: 5647660523202374866, guid: a832438150ecb9942bc1e5a73e040a83, type: 3}
       propertyPath: Barrier
@@ -1628,7 +1628,7 @@ MonoBehaviour:
   m_fontWeight: 400
   m_enableAutoSizing: 1
   m_fontSizeMin: 18
-  m_fontSizeMax: 72
+  m_fontSizeMax: 50
   m_fontStyle: 0
   m_HorizontalAlignment: 2
   m_VerticalAlignment: 512

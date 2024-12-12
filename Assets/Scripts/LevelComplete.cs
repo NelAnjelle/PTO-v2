@@ -94,16 +94,22 @@ public class LevelComplete : MonoBehaviour
              ThisLevelStar = 2;
             Debug.Log("This Level star: "+ThisLevelStar);
 
+            if(NextLvlBtn != null)
+            {
+                NextLvlBtn.SetActive(false);
+            }
+            
 
-            Button buttonNext = NextLvlBtn.GetComponent<Button>();
-            if (buttonNext != null)
-        {
-            buttonNext.interactable = false;
-        }
-        else
-        {
-            Debug.LogError("No Button component found on the NextBtn GameObject.");
-        }
+
+        //     Button buttonNext = NextLvlBtn.GetComponent<Button>();
+        //     if (buttonNext != null)
+        // {
+        //     buttonNext.interactable = false;
+        // }
+        // else
+        // {
+        //     Debug.LogError("No Button component found on the NextBtn GameObject.");
+        // }
 
            
         }
@@ -113,15 +119,21 @@ public class LevelComplete : MonoBehaviour
              ThisLevelStar = 1;
             Debug.Log("This Level star: "+ThisLevelStar);
 
-            Button buttonNext = NextLvlBtn.GetComponent<Button>();
-            if (buttonNext != null)
-        {
-            buttonNext.interactable = false;
-        }
-        else
-        {
-            Debug.LogError("No Button component found on the NextBtn GameObject.");
-        }
+            if(NextLvlBtn != null)
+            {
+                NextLvlBtn.SetActive(false);
+            }
+            
+
+        //     Button buttonNext = NextLvlBtn.GetComponent<Button>();
+        //     if (buttonNext != null)
+        // {
+        //     buttonNext.interactable = false;
+        // }
+        // else
+        // {
+        //     Debug.LogError("No Button component found on the NextBtn GameObject.");
+        // }
 
             
         }
