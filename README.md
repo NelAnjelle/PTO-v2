@@ -26,4 +26,4 @@ This project was created for the **Orata Nobility Program of Urdaneta City Unive
 To get a copy of this project on your local machine:  
 
 ```bash
-git clone https://github.com/Nel_Anjelle/pto-game.git
+git clone https://github.com/NelAnjelle/PTO-v2.git
