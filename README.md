@@ -18,3 +18,12 @@ This project was created for the **Orata Nobility Program of Urdaneta City Unive
 - **Game Engine:** Unity  
 - **Programming Language:** C#  
 - **Assets:** Free and public resources (with credits when required)  
+
+---
+
+## 🚀 Clone This Repository
+
+To get a copy of this project on your local machine:  
+
+```bash
+git clone https://github.com/Nel_Anjelle/pto-game.git
